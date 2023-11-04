@@ -1,7 +1,12 @@
 @font-face {
-  font-family: 'kristi';
-  src: url('../fonts/kristi-regular.woff2') format('woff2'),
-  url('../fonts/kristi-regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal; 
+  font-family: 'elena-web-basic', 'sans-serif';
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'colfax-web', 'sans-serif';
+  font-weight: 500;
+  font-style: normal;
 }
