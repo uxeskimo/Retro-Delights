@@ -14,12 +14,12 @@
   --lineheight-text-alt: .9;
   
   /* Colour */
-  --color-background: #00111f;
-  --color-background-selection: #000;
-  --color-base: #000;
-  --color-border: #fbae3c;
-  --color-text-default: #fff;
-  --color-text-link: #fbae3c;
+  // --color-background: #00111f;
+   //--color-background-selection: #000;
+   //--color-base: #000;
+   //--color-border: #fbae3c;
+   //--color-text-default: #fff;
+  --color-text-link: #ffffff;
   
   /* Borders */
   --border-width-thin: 1px;
@@ -73,25 +73,33 @@
   a,
   a:visited {
   color: var(--color-text-link);
-  text-decoration-color: var(--color-text-link);
-  text-decoration-thickness: 0.075em;
-  text-underline-offset: 0.09em; }
+  text-decoration: none;
+ // text-decoration-color: var(--color-text-link);
+ // text-decoration-thickness: 0.075em;
+  //text-underline-offset: 0.09em; 
+}
   
   a:hover {
-  color: var(--color-text-link); }
+  //color: var(--color-text-link); 
+}
   
   a:focus {
-  color: var(--color-text-link);
-  outline: thin dotted; }
+  //color: var(--color-text-link);
+  //outline: thin dotted; 
+}
   
+
   h1,
   h2 {
   margin: 0 0 var(--spacing-default);
-  line-height: var(--lineheight-text-alt); }
+  line-height: var(--lineheight-text-alt); 
+}
   
   h1 {
   font-size: var(--font-size-medium); 
-  font-family: 'colfax-web'; }
+  font-family: 'colfax-web'; 
+  color:#EDAEEF;
+  }
   
   h2 {
   font-size: var(--font-size-large); }
@@ -150,7 +158,7 @@
   font-family: 'elena-web-basic'; }
   
   [data-theme] {
-  background-color: #00111f;
+  background-color: #322E37;
   color: #fff; }
   
   [data-theme] h1 {
@@ -166,3 +174,10 @@
   
   [data-theme] a {
   color: inherit; }
+
+
+  /* My styles */
+
+  .site-nav {
+    font-size: 20px;
+  }
