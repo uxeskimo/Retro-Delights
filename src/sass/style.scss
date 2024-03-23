@@ -1,4 +1,134 @@
-@use "fonts";
-@use "layout";
+@use "varibles";
 @use "typography";
+@use "layout";
 
+/* Header -------------------------------------------- */
+[role="banner"] {
+   display: grid;
+   grid-template-columns: 1fr 400px;}
+   @media (min-width: 40em) {
+    [role="banner"]  {
+        grid-template-columns: 1fr 500px;
+    }
+  }
+
+.logo {
+    grid-column: 1;
+    width:45px; }
+
+    @media (min-width: 40em) {
+        .logo {
+            width:73px;
+        }
+      }
+   
+.main-nav {
+    grid-column: 2;
+    list-style-type: none;
+    margin-top: 8px; }
+    @media (min-width: 40em) {
+        .main-nav   {
+            margin-top: 16px;
+        }
+      }
+
+
+.main-nav li {
+    display: inline-block;
+}
+
+.main-nav a {
+   padding: 6px 6px 6px 6px;
+   font-size: 14px;}
+   @media (min-width: 40em) {
+    .main-nav a  {
+        font-size: 20px;
+        padding: 10px 33px 10px 33px;
+    }
+  }
+
+
+   .main-nav a:first-of-type {
+    padding-left:25px;}
+    @media (min-width: 40em) {
+        .main-nav a:first-of-type  {
+            padding-left:0;
+        }
+  }
+
+/* Home styles -------------------------------------------- */
+   .intro {
+
+   } 
+
+
+    @media (min-width: 40em) {
+       .posts ul {
+            gap: 0 var(--spacing-small);
+        }
+        .intro {
+            margin-right: 100px;
+        }
+  }
+
+  .posts ul {
+    display: contents;
+    margin-right: 60px;
+  }
+
+.posts li {
+    list-style: none;
+    font-family: 'colfax-web';
+    font-size:20px;
+    margin-bottom: 60px;}
+
+    @media (min-width: 40em) {
+        .posts li  {
+            font-size:18px;
+        }
+  }
+
+.author {
+    max-width: 50px;
+    margin-bottom: 65px;
+    padding-right: 12px;}
+
+    @media (min-width: 40em) {
+        .author  {
+            max-width: 80px;
+            margin-bottom: 70px;
+            padding-right: 18px;
+        }
+  }
+
+  .intro p {
+    margin-right: 110px;
+}
+
+.drop-cap::first-letter {
+    font-size: 150%;
+    padding:0 5px 0 5px ;
+    background-color: var(--purple-color);
+    border-radius: 2px;
+    color: var(--color-background);
+    margin-right: 5px;
+  }
+
+.intro p:last-of-type {
+    border-bottom: 4px solid var(--purple-color);
+    padding-bottom: 35px;
+    margin-bottom: 80px;}
+
+  @media (min-width: 40em) {
+    .intro p {
+        padding-right: 0;
+    }
+
+    .intro p:last-of-type {
+        border-bottom: 0;
+    }
+}
+
+/* Footer -------------------------------------------- */
+footer {
+    grid-row: 5;}

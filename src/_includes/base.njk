@@ -33,11 +33,17 @@
     <link rel="stylesheet" href="https://use.typekit.net/xbe4tdt.css">
   </head>
   <body data-theme="">
-  
+   <header role="banner">
+
+      {% include "header.njk" %}
+    
+    </header>
+
     {{ content | safe }}
 
-  <footer role="contentinfo">
+   <footer role="contentinfo">
+       {% include "footer.njk" %}
+   </footer> 
 
-</footer> 
   </body>
 </html>

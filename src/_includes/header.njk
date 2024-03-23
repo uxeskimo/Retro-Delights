@@ -1,0 +1,12 @@
+ <div class="logo">
+        <a href="/index.html"><img src="/img/retro-delights-logo.svg" alt="Happy space invader"></a> 
+  </div>    
+
+    <ul class="main-nav"> 
+        {%- for page in collections.pages -%} 
+          <li>
+            <a href="{{ page.url }}">{{ page.data.title }}</a>
+          </li>
+          {%- endfor -%}
+    </ul>
+

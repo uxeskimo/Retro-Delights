@@ -1,23 +1,76 @@
 ---
-description:
+description: Lee test
 layout: base.njk
 templateEngineOverride: md, njk
 ---
 
 
-<header>
-    <small>  
-         <a href="index.html"><img src="img/retro-delights-logo.svg" alt="Happy space invader"></a> 
-        {%- for page in collections.pages -%} <a href="{{ page.url }}">{{ page.data.title }}</a>
-        {%- endfor -%}
-    </small>
-</header>
+<div class="grid-pacman">
+  <div class="intro">
+      <h1>The home of retro games and products</h1>
 
+  <img class="author" src="/img/lee-murray.png" alt="Lee Murray">
+  <img class="author" src="/img/alex-murray.png" alt="Alex Murray">
 
-<h1>The home of retro games and products</h1>
+    <p class="drop-cap">Retro delights is the number 1 place for retro gaming and products.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam varius non lacus et lacinia. Vivamus ullamcorper augue commodo sem fermentum, a malesuada urna sodales.</p> 
 
-<div class="" data-layout="">
+  </div>
 
+<div class="posts" data-layout="">
+
+ <ul>
+
+  {%- for post in collections.news -%}
+    {% if loop.index0 < 3 %}
+    <li>
+      <a href="{{ post.url | url }}">
+        <img src="{{ post.data.image }}"></img>
+        <h3>{{ post.data.title }}</h3>
+      </a>
+    </li>
+     {% endif %}
+  {%- endfor -%}
+</ul>
+
+ <ul>
+  {%- for post in collections.article  -%}
+   {% if loop.index0 < 3 %}
+    <li>
+      <a href="{{ post.url | url }}">
+        <img src="{{ post.data.image }}"></img>
+        <h3>{{ post.data.title }}</h3>
+      </a>
+    </li>
+     {% endif %}
+  {%- endfor -%}
+</ul>
+
+ <ul>
+  {%- for post in collections.reviews  -%}
+   {% if loop.index0 < 3 %}
+    <li>
+      <a href="{{ post.url | url }}">
+        <img src="{{ post.data.image }}"></img>
+        <h3>{{ post.data.title }}</h3>
+      </a>
+    </li>
+     {% endif %}
+  {%- endfor -%}
+</ul>
+
+ <ul>
+  {%- for post in collections.games  -%}
+     {% if loop.index0 < 3 %}
+    <li>
+      <a href="{{ post.url | url }}">
+        <img src="{{ post.data.image }}"></img>
+        <h3>{{ post.data.title }}</h3>
+      </a>
+    </li>
+     {% endif %}
+  {%- endfor -%}
+</ul>
 </div>
- 
+</div>
 {{ content | safe }}
