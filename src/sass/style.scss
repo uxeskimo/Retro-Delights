@@ -5,30 +5,52 @@
 /* Header -------------------------------------------- */
 [role="banner"] {
    display: grid;
-   grid-template-columns: 1fr 400px;}
+   grid-template-columns: 1fr 1fr;}
    @media (min-width: 40em) {
     [role="banner"]  {
-        grid-template-columns: 1fr 500px;
+        grid-template-columns: 1fr 1fr;
     }
   }
 
 .logo {
     grid-column: 1;
-    width:45px; }
+    margin-left: 10px; }
 
-    @media (min-width: 40em) {
+    .logo img {
+        max-width: 30px;
+    }
+
+    .logo span {
+        font-family: 'pf-uniform';
+        font-weight: 400;
+        font-size: 16px;
+        font-style: normal;
+        display: none;
+    }
+
+    @media (min-width: 50em) {
         .logo {
-            width:73px;
+            margin-left:26px;}
+        .logo img {
+            max-width: 40px;}
+        .logo span {
+            color: var(--purple-color);
+            display: inline;
+            position: absolute;
+            padding: 15px 0 0 14px;
         }
       }
    
 .main-nav {
     grid-column: 2;
+    display: flex;
+    justify-content: flex-start;
     list-style-type: none;
     margin-top: 8px; }
     @media (min-width: 40em) {
         .main-nav   {
-            margin-top: 16px;
+         
+            justify-content: flex-end;
         }
       }
 
@@ -39,10 +61,10 @@
 
 .main-nav a {
    padding: 6px 6px 6px 6px;
-   font-size: 14px;}
+   font-size: 11px;}
    @media (min-width: 40em) {
     .main-nav a  {
-        font-size: 20px;
+        font-size: 16px;
         padding: 10px 33px 10px 33px;
     }
   }
@@ -52,22 +74,17 @@
     padding-left:25px;}
     @media (min-width: 40em) {
         .main-nav a:first-of-type  {
-            padding-left:0;
+            padding-left:60px;
+        }
+        .main-nav a:last-of-type  {
+   padding-right: 0;;
         }
   }
 
 /* Home styles -------------------------------------------- */
-   .intro {
-
-   } 
-
-
     @media (min-width: 40em) {
        .posts ul {
             gap: 0 var(--spacing-small);
-        }
-        .intro {
-            margin-right: 100px;
         }
   }
 
@@ -78,20 +95,27 @@
 
 .posts li {
     list-style: none;
-    font-family: 'colfax-web';
     font-size:20px;
     margin-bottom: 60px;}
 
     @media (min-width: 40em) {
-        .posts li  {
-            font-size:18px;
-        }
+        .posts li h3  {
+            margin-right: 20px;
+         }
   }
+
+
+  @media (min-width: 60em) {
+    .posts li h3  {
+       margin-right: 60px;
+    }
+}
+
 
 .author {
     max-width: 50px;
-    margin-bottom: 65px;
-    padding-right: 12px;}
+    margin-bottom: 50px;
+    padding-right: 6px;}
 
     @media (min-width: 40em) {
         .author  {
@@ -100,10 +124,6 @@
             padding-right: 18px;
         }
   }
-
-  .intro p {
-    margin-right: 110px;
-}
 
 .drop-cap::first-letter {
     font-size: 150%;
@@ -116,7 +136,7 @@
 
 .intro p:last-of-type {
     border-bottom: 4px solid var(--purple-color);
-    padding-bottom: 35px;
+    padding-bottom: 30px;
     margin-bottom: 80px;}
 
   @media (min-width: 40em) {
