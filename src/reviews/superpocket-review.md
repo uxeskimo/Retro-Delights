@@ -1,7 +1,7 @@
 ---
 layout: base.njk 
 tags: ['reviews']
-title: Superpocket review
+title: Superpocket review - Joy in you're pocket?
 date: 2023-11-05
 teaser: Superpocket review
 author: "Lee Murray"

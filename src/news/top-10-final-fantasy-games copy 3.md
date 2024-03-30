@@ -2,11 +2,11 @@
 layout: post.njk 
 tags: ['news']
 categories: ["console"]
-title: Top 10 final fantasy games
+title: Top 10 final fantasy games of all time
 date: 2023-13-05
 teaser: Top 10 final fantasy games
 author: "Lee Murray"
-image: /img/retro-delights-logo.svg
+image: /img/top-10-final-fantasy.png
 ---
 
 Top 10 final fantasy games

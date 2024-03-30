@@ -2,7 +2,7 @@
 layout: post.njk 
 tags: ['news']
 categories: ["console"]
-title: Super pocket review
+title: Superpocket review - Joy in you're pocket?
 date: 2023-13-02
 teaser: Super pocket review
 author: "Lee Murray"

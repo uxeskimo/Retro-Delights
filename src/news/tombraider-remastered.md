@@ -2,7 +2,7 @@
 layout: post.njk 
 tags: ['news']
 categories: ["console"]
-title: Tombraider Remastered
+title: Tombraider Remastered - Is it as good as you remember?
 date: 2023-13-03
 teaser: Tombraider Remastered
 author: "Lee Murray"

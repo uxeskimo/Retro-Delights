@@ -1,7 +1,7 @@
 ---
 layout: post.njk 
 tags: ['games']
-title: Fifa23
+title: Fifa 23 review - More of the same of a new era?
 date: 2023-11-05
 teaser: Fifa 23 review
 author: "Lee Murray"
