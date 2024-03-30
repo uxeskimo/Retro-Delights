@@ -3,30 +3,38 @@
 @use "layout";
 
 /* Header -------------------------------------------- */
-[role="banner"] {
-   display: grid;
-   grid-template-columns: 1fr 1fr;}
    @media (min-width: 40em) {
     [role="banner"]  {
+        display: grid;
         grid-template-columns: 1fr 1fr;
     }
   }
 
 .logo {
     grid-column: 1;
-    margin-left: 10px; }
+    margin-bottom: 20px;
+    text-align: center; }
 
     .logo img {
         max-width: 30px;
     }
 
     .logo span {
+        display: none;
+        position: absolute;
         font-family: 'pf-uniform';
+        color: var(--purple-color);
+        padding: 9px 0 0 14px;
         font-weight: 400;
         font-size: 16px;
-        font-style: normal;
-        display: none;
+        font-style: normal
+        ;
     }
+    @media (min-width: 40em) {
+        .logo {
+            text-align: left;
+    }
+}
 
     @media (min-width: 50em) {
         .logo {
@@ -34,9 +42,7 @@
         .logo img {
             max-width: 40px;}
         .logo span {
-            color: var(--purple-color);
             display: inline;
-            position: absolute;
             padding: 15px 0 0 14px;
         }
       }
@@ -44,12 +50,13 @@
 .main-nav {
     grid-column: 2;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     margin-top: 6px;
     list-style-type: none; }
 
       @media (min-width: 50em) {
         .main-nav   {
+           justify-content: flex-end;
            margin-top: 12px;
         }
       }
@@ -60,8 +67,8 @@
 }
 
 .main-nav a {
-   padding: 6px;
-   font-size: 11px;}
+   padding: 10px;
+   font-size: 12px;}
    @media (min-width: 40em) {
     .main-nav a  {
         font-size: 14px;
