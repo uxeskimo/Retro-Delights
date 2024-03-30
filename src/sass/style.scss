@@ -26,9 +26,8 @@
         color: var(--purple-color);
         padding: 9px 0 0 14px;
         font-weight: 400;
-        font-size: 16px;
-        font-style: normal
-        ;
+        font-size: 21px;
+        font-style: normal;
     }
     @media (min-width: 40em) {
         .logo {
@@ -43,7 +42,7 @@
             max-width: 40px;}
         .logo span {
             display: inline;
-            padding: 15px 0 0 14px;
+            padding: 8px 0 0 8px;
         }
       }
    
@@ -95,7 +94,7 @@
 .posts li {
     list-style: none;
     font-size:20px;
-    margin-bottom: 60px;}
+    margin-bottom: 50px;}
 
 .posts h3 {
     margin-top: 16px;
@@ -126,7 +125,7 @@
 
   .intro {
     border-bottom: 4px solid var(--purple-color);
-    margin-bottom: 60px;
+    margin-bottom: 50px;
   }
 
 .intro p:last-of-type {
@@ -139,6 +138,10 @@
     .intro {
         border-bottom: 0;
     }
+    .posts li {
+        margin-bottom: 60px;
+      }
+    
 }
 
 /* Footer -------------------------------------------- */
