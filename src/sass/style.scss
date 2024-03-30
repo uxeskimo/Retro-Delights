@@ -60,7 +60,7 @@
 }
 
 .main-nav a {
-   padding: 6px 6px 6px 6px;
+   padding: 6px;
    font-size: 11px;}
    @media (min-width: 40em) {
     .main-nav a  {
@@ -70,19 +70,8 @@
 
   @media (min-width: 70em) {
     .main-nav a  {
-        padding: 10px 33px 10px 33px;
+        padding: 10px 24px 10px 24px;
     }
-  }
-
-   .main-nav a:first-of-type {
-    padding-left:25px;}
-    @media (min-width: 40em) {
-        .main-nav a:first-of-type  {
-            padding-left:60px;
-        }
-        .main-nav a:last-of-type  {
-   padding-right: 0;;
-        }
   }
 
 /* Home styles -------------------------------------------- */
@@ -107,13 +96,13 @@
 
 .author {
     max-width: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
     padding-right: 6px;}
 
     @media (min-width: 40em) {
         .author  {
             max-width: 80px;
-            margin-bottom: 70px;
+            margin-bottom: 35px;
             padding-right: 12px;
         }
   }
