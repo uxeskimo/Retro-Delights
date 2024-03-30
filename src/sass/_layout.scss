@@ -27,11 +27,10 @@
     }
   }
   
-  
   img {
   border-width: 0;
   max-width: 100%;
-  vertical-align: middle; }
+  width: 100%; }
 
 /* Header/footer -------------------------------------------- */
   header {
@@ -49,6 +48,16 @@
 
 
 /* Grid -------------------------------------------- */
+
+.posts {
+  margin-right: 1.5rem;
+  margin-left: 1.5rem;
+}
+
+.posts ul {
+  text-align: center;
+}
+
 @media (min-width: 50em) {
   .grid-pacman {
     display: grid;
@@ -64,11 +73,13 @@
       display: grid;
       grid-column: 2/9;
       grid-template-columns: 1fr;
+      margin: 0;
   }
 
-
+  .posts ul {
+    text-align: left;
+  }
 }
-
 
   @media (min-width: 75em) {
     .grid-pacman {
