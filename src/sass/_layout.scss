@@ -35,14 +35,14 @@
 /* Header/footer -------------------------------------------- */
  
 header {
-  margin-bottom: 90px;
+  margin-bottom: 110px;
 }
 
 footer {
     margin-bottom: 50px; }
 
   @media (min-width: 50em) {
-    header, footer {
+  footer {
       margin-bottom: 110px;
     }
   }
