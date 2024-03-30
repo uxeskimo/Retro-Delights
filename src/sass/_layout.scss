@@ -33,10 +33,15 @@
   width: 100%; }
 
 /* Header/footer -------------------------------------------- */
- footer {
+ 
+header {
+  margin-bottom: 70px;
+}
+
+footer {
     margin-bottom: 50px; }
 
-  @media (min-width: 70em) {
+  @media (min-width: 50em) {
     header, footer {
       margin-bottom: 110px;
     }
