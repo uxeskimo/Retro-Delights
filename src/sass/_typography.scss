@@ -5,7 +5,7 @@ h1 {
   font-weight: 700;
   color: var(--white-color);
   line-height: 0.8; 
-  margin-bottom: 30px;
+  margin-bottom: 16px;
   text-transform: uppercase;}
 
   @media (min-width: 25em) {
@@ -45,6 +45,11 @@ h1 {
 
   p a {
     text-transform: none;
+  }
+
+  .highlight {
+    font-weight: 600;
+    text-transform: uppercase;
   }
 
 /* Links */
