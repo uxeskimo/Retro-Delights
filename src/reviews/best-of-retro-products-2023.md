@@ -6,6 +6,7 @@ date: 2023-11-05
 teaser: Best of retro 2023 review
 author: "Lee Murray"
 image: /img/top-10-final-fantasy.png
+alt: Cloud strife from final fantasy 7
 ---
 
 Super pocket review

@@ -7,6 +7,7 @@ date: 2023-13-05
 teaser: Pac-man - the other dimension
 author: "Lee Murray"
 image: /img/top-10-final-fantasy.png
+alt: Cloud strife from final fantasy 7
 ---
 
 Pac-man - the other dimension

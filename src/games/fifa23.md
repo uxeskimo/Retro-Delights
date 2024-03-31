@@ -6,6 +6,7 @@ date: 2023-11-05
 teaser: Fifa 23 review
 author: "Lee Murray"
 image: /img/top-10-final-fantasy.png
+alt: Cloud strife from final fantasy 7
 ---
 
 Fifa 23 review

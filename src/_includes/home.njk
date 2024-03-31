@@ -1,5 +1,6 @@
 ---
-description: Lee test
+title: Retro gaming reviews, news and articles
+description: Retro Delights has retro gaming news, is a place to learn about retro gaming and retro products to collect.
 layout: base.njk
 templateEngineOverride: md, njk
 ---
@@ -25,7 +26,7 @@ templateEngineOverride: md, njk
     {% if loop.index0 < 3 %}
     <li>
       <a href="{{ post.url | url }}">
-        <img src="{{ post.data.image }}"></img>
+        <img src="{{ post.data.image }}" alt="{{ post.data.alt }}"></img>
         <h3>{{ post.data.title }}</h3>
       </a>
     </li>
@@ -38,7 +39,7 @@ templateEngineOverride: md, njk
    {% if loop.index0 < 3 %}
     <li>
       <a href="{{ post.url | url }}">
-        <img src="{{ post.data.image }}"></img>
+        <img src="{{ post.data.image }}" alt="{{ post.data.alt }}"></img>
         <h3>{{ post.data.title }}</h3>
       </a>
     </li>
@@ -51,7 +52,7 @@ templateEngineOverride: md, njk
    {% if loop.index0 < 3 %}
     <li>
       <a href="{{ post.url | url }}">
-        <img src="{{ post.data.image }}"></img>
+        <img src="{{ post.data.image }}" alt="{{ post.data.alt }}"></img>
         <h3>{{ post.data.title }}</h3>
       </a>
     </li>
@@ -64,7 +65,7 @@ templateEngineOverride: md, njk
      {% if loop.index0 < 3 %}
     <li>
       <a href="{{ post.url | url }}">
-        <img src="{{ post.data.image }}"></img>
+        <img src="{{ post.data.image }}" alt="{{ post.data.alt }}"></img>
         <h3>{{ post.data.title }}</h3>
       </a>
     </li>

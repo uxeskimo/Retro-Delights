@@ -108,3 +108,27 @@ ul {
   padding-left: 0;
   margin-left: 0;}
 
+
+  /* Articles -------------------------------------------- */
+
+.articles {
+  margin-top: 60px;
+  margin-right: 0;
+  margin-left: 0;
+  }
+
+  @media (min-width: 50em) {
+    .articles {
+    grid-column: 1/2;
+    grid-template-columns: 1fr 1fr; 
+    grid-column-gap: 3vw;
+  }
+}
+
+@media (min-width: 70em) {
+  .articles {
+    grid-column: 1/4;
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    grid-column-gap: 2vw;
+}
+}
