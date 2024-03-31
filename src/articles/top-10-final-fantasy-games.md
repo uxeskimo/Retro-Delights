@@ -2,7 +2,7 @@
 layout: post.njk 
 tags: ['article']
 categories: ["console"]
-title: Pac-man the other dimension - What if?
+title: Pac-man the other dimension - What if things we're different?
 date: 2023-13-05
 teaser: Pac-man - the other dimension
 author: "Lee Murray"

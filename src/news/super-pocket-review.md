@@ -2,7 +2,7 @@
 layout: post.njk 
 tags: ['news']
 categories: ["console"]
-title: Superpocket review - Joy in you're pocket?
+title: Superpocket review - Joy in you're pocket or £50 wasted?
 date: 2023-13-02
 teaser: Super pocket review
 author: "Lee Murray"

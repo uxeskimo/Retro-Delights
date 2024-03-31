@@ -1,7 +1,7 @@
 ---
 layout: post.njk 
 tags: ['games']
-title: Fifa 23 review - More of the same of a new era?
+title: Fifa 23 review - More of the same or a new era for football games?
 date: 2023-11-05
 teaser: Fifa 23 review
 author: "Lee Murray"
