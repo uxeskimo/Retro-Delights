@@ -9,7 +9,7 @@ templateEngineOverride: md, njk
 
 
  <ul>
-  {%- for post in collections.article  -%}
+  {%- for post in collections.article | reverse -%}
     <li>
       <a href="{{ post.url | url }}">
         <img src="{{ post.data.image }}" alt="{{ post.data.alt }}"></img>

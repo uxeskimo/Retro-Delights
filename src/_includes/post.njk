@@ -1,15 +1,23 @@
 ---
-description: Lee test
-layout: base.njk
+description: Post description goes here 
+layout: post-base.njk
 templateEngineOverride: md, njk
 ---
 
 
-  <div role="heading" aria-level="1">
-     <h1>Post</h1>
-<div>
+  <div class="grid-space-invader">
+    <div class="post">
+      <ul class="inline post-info">
+         <li>Author: {{ author }}</li>
+          <li>{{ page.date | postDate }}</li>
+      </ul>
+     <h1>{{ title }}</h1>
 
-{{ content | safe }}
+     {{ content | safe }}
+    
+     </div>
+  </div>
+
 
 
 

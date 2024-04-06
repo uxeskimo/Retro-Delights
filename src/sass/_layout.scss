@@ -35,17 +35,34 @@
 /* Header/footer -------------------------------------------- */
  
 header {
+  margin-bottom: 60px;
+}
+
+.home-page header {
   margin-bottom: 110px;
 }
 
+.post-page header {
+  margin-bottom: 60px;
+}
+
 footer {
+    margin-top: 110px;
     margin-bottom: 50px; }
 
   @media (min-width: 50em) {
   footer {
       margin-bottom: 110px;
     }
+    header {
+      margin-bottom: 110px;
+    }
+    .post-page header {
+      margin-bottom: 140px;
+      }
+    
   }
+  
 
 
 /* Grid -------------------------------------------- */
@@ -101,6 +118,25 @@ footer {
   }
 
 
+  @media (min-width: 60em) {
+    .grid-space-invader {
+      display: grid;
+      grid-column-gap: 3vw;
+      grid-template-columns: 2fr 1fr 4fr 3fr 3fr 4fr 1fr 2fr;
+    }
+
+      .grid-space-invader > * {
+        grid-column: 2/8;
+      }
+  }
+
+  @media (min-width: 80em) {
+    .grid-space-invader {
+      grid-template-columns: 6fr 1fr 4fr 3fr 3fr 4fr 1fr 6fr;
+    }
+
+  }
+
 
 /* List -------------------------------------------- */
 ul {
@@ -112,10 +148,9 @@ ul {
   /* Articles -------------------------------------------- */
 
 .articles {
-  margin-top: 60px;
+  margin-top: 40px;
   margin-right: 0;
-  margin-left: 0;
-  }
+  margin-left: 0; }
 
   @media (min-width: 50em) {
     .articles {
@@ -131,4 +166,23 @@ ul {
     grid-template-columns: 1fr 1fr 1fr 1fr; 
     grid-column-gap: 2vw;
 }
+}
+
+
+  /* Post layout two -------------------------------------------- */
+
+  .layout-two  {
+   padding-top: 0;
+  }
+
+
+  @media (min-width: 40em) {
+  .layout-two [role=banner] {
+    grid-template-columns: 1fr;
+  }
+
+  .layout-two h1 {
+    transform: rotate(180deg);
+    writing-mode: vertical-rl;
+  }
 }

@@ -1,0 +1,26 @@
+---
+description: Post description goes here 
+layout: post-base.njk
+templateEngineOverride: md, njk
+---
+
+ <header role="banner">
+    <picture>
+            <source srcset="{{ heroimage }}" media="(min-width: 48em)">
+            <img src="{{ smallheroimage }}" alt="">
+      </picture>
+    </header>
+
+  <div role="heading" aria-level="1">
+     <h1>{{ title }}</h1>
+ <div>
+
+
+
+{{ content | safe }}
+
+
+
+
+
+

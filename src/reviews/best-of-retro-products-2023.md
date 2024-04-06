@@ -1,7 +1,8 @@
 ---
-layout: base.njk 
+layout: post.njk 
 tags: ['reviews']
 title: Best of retro products 2023 review
+creative-heading: retro products 2023 review
 date: 2023-11-05
 teaser: Best of retro 2023 review
 author: "Lee Murray"
@@ -9,7 +10,6 @@ image: /img/top-10-final-fantasy.png
 alt: Cloud strife from final fantasy 7
 ---
 
-Super pocket review
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor sollicitudin justo, et viverra enim aliquet a. Suspendisse in tortor vel nibh vestibulum laoreet. Duis faucibus magna a varius dapibus. Cras venenatis sagittis felis, vitae sagittis turpis mattis vitae. Integer vehicula odio sit amet eleifend volutpat. Aenean eu molestie libero, id placerat sapien. Cras tempor est quis justo venenatis pulvinar. Phasellus vitae pulvinar diam. Praesent vulputate consequat ante, vitae iaculis neque rhoncus ac. Ut sit amet lobortis quam.
 

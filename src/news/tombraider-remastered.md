@@ -3,14 +3,12 @@ layout: post.njk
 tags: ['news']
 categories: ["console"]
 title: Tombraider Remastered - Is it as good as you remember?
-date: 2023-13-03
+date: 2024-04-04
 teaser: Tombraider Remastered
 author: "Lee Murray"
 image: /img/tombraider-remastered.png
 alt: Cloud strife from final fantasy 7
 ---
-
-Tombraider Remastered
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor sollicitudin justo, et viverra enim aliquet a. Suspendisse in tortor vel nibh vestibulum laoreet. Duis faucibus magna a varius dapibus. Cras venenatis sagittis felis, vitae sagittis turpis mattis vitae. Integer vehicula odio sit amet eleifend volutpat. Aenean eu molestie libero, id placerat sapien. Cras tempor est quis justo venenatis pulvinar. Phasellus vitae pulvinar diam. Praesent vulputate consequat ante, vitae iaculis neque rhoncus ac. Ut sit amet lobortis quam.
 

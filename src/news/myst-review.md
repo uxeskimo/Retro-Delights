@@ -1,18 +1,18 @@
 ---
 layout: post.njk 
-tags: ['article']
+tags: ['news']
 categories: ["console"]
-title: Pac-man the other dimension - What if things we're different?
-date: 2023-13-05
-teaser: Pac-man - the other dimension
+title: Myst review - revisiting a classic
+date: 2024-04-06
+teaser: Myst review
 author: "Lee Murray"
-image: /img/top-10-final-fantasy.png
+image: /img/tombraider-remastered.png
 alt: Cloud strife from final fantasy 7
 ---
 
-Pac-man - the other dimension
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor sollicitudin justo, et viverra enim aliquet a. Suspendisse in tortor vel nibh vestibulum laoreet. Duis faucibus magna a varius dapibus. Cras venenatis sagittis felis, vitae sagittis turpis mattis vitae. Integer vehicula odio sit amet eleifend volutpat. Aenean eu molestie libero, id placerat sapien. Cras tempor est quis justo venenatis pulvinar. Phasellus vitae pulvinar diam. Praesent vulputate consequat ante, vitae iaculis neque rhoncus ac. Ut sit amet lobortis quam.
+
+![Alt text](/img/tombraider-remastered.png "a title")
 
 Sed rhoncus convallis condimentum. Fusce lectus lacus, facilisis at turpis eget, consequat dignissim ipsum. Cras purus mi, tempor nec interdum in, cursus in orci. Vivamus sapien magna, commodo quis suscipit pellentesque, convallis eu orci. Quisque hendrerit ultricies libero, sit amet elementum ex tincidunt ut. Nulla ac cursus dolor. Vivamus rhoncus erat sagittis velit pharetra, at cursus lorem lacinia. Pellentesque hendrerit nunc nec dolor facilisis bibendum. Sed tempor leo ipsum. Quisque tempor odio id metus fringilla ultricies quis sed arcu. Donec tempus nisi et blandit pharetra.
 

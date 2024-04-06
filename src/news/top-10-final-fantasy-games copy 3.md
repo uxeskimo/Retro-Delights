@@ -3,14 +3,12 @@ layout: post.njk
 tags: ['news']
 categories: ["console"]
 title: Top 10 final fantasy games of all time
-date: 2023-13-05
+date: 2024-04-01
 teaser: Top 10 final fantasy games
 author: "Lee Murray"
 image: /img/top-10-final-fantasy.png
 alt: Cloud strife from final fantasy 7
 ---
-
-Top 10 final fantasy games
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor sollicitudin justo, et viverra enim aliquet a. Suspendisse in tortor vel nibh vestibulum laoreet. Duis faucibus magna a varius dapibus. Cras venenatis sagittis felis, vitae sagittis turpis mattis vitae. Integer vehicula odio sit amet eleifend volutpat. Aenean eu molestie libero, id placerat sapien. Cras tempor est quis justo venenatis pulvinar. Phasellus vitae pulvinar diam. Praesent vulputate consequat ante, vitae iaculis neque rhoncus ac. Ut sit amet lobortis quam.
 

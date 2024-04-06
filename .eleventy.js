@@ -25,6 +25,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
   eleventyConfig.addShortcode("packageVersion", () => `v${packageVersion}`);
 
+  // Import prior to `module.exports` within `.eleventy.js`
+const { DateTime } = require("luxon");
+
+eleventyConfig.addFilter("postDate", (dateObj) => {
+  return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
+});
+
   eleventyConfig.addFilter("slug", (str) => {
     if (!str) {
       return;

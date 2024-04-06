@@ -8,19 +8,32 @@ h1 {
   margin-bottom: 16px;
   text-transform: uppercase;}
 
+  .post h1 {
+    font-size: 38px; 
+    margin-top: 0;
+    margin-bottom: 60px;;
+  }
+ 
+
   @media (min-width: 25em) {
-    h1 {
+    h1, .post h1 {
       font-size: 67px; 
     }
   }
 
   @media (min-width: 50em) {
-    h1 {
+    h1, .post h1 {
       font-size: var(--font-size-large); 
       margin: 0 0 36px 0;
     }
   }
- 
+
+  @media (min-width: 50em) {
+   .post h1 {
+      margin-bottom: 100px;
+    }
+  }
+
   
   h2 {
   font-size: var(--font-size-medium); }
@@ -66,6 +79,7 @@ h1 {
   /* Footer */
 
   footer p {
+    font-size: 13px;
     font-style: italic;
     font-weight: 400;
   }
