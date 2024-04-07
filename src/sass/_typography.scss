@@ -28,15 +28,27 @@ h1 {
     }
   }
 
-  @media (min-width: 50em) {
+
    .post h1 {
-      margin-bottom: 100px;
+      margin-bottom: 0;
     }
-  }
 
   
   h2 {
   font-size: var(--font-size-medium); }
+
+  .post h2 {
+    font-size: 46px; 
+    font-family: 'all-round-gothic';
+    color: var(--white-color);
+    line-height: 0.8; 
+  }
+
+  @media (min-width: 50em) {
+    .post h2  {
+      font-size: 56px; 
+    }
+  }
 
 /* Parargraphs */
   p, p a {

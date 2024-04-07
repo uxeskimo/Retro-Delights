@@ -7,11 +7,13 @@ templateEngineOverride: md, njk
 
   <div class="grid-space-invader">
     <div class="post">
+     
+     <h1>{{ title }}</h1>
+
       <ul class="inline post-info">
          <li>Author: {{ author }}</li>
           <li>{{ page.date | postDate }}</li>
       </ul>
-     <h1>{{ title }}</h1>
 
      {{ content | safe }}
     

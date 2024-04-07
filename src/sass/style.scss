@@ -145,6 +145,14 @@
     }
 }
 
+.tdbc-anchor {
+    vertical-align: top;
+    margin-left: 0.25em;
+    transition: opacity .18s ease-in-out;
+    display: inline-block;
+    text-decoration: underline;
+}
+
 /* lists -------------------------------------------- */
 
 .inline li {
@@ -153,7 +161,7 @@
 }
 
 .post-info {
-    margin-bottom: 15px;
+    margin-bottom: 40px;
     font-family: 'all-round-gothic';
     color: var(--purple-color);
     font-size: 11px;
@@ -165,7 +173,7 @@
 @media (min-width: 50em) {
     .post-info   {
        font-size:13px;
-       margin-bottom: 25px;
+       margin-bottom: 60px;
     }
 }
 
