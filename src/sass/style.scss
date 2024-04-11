@@ -41,7 +41,7 @@
             max-width: 64px;}
         .logo span {
             display: inline;
-            padding: 21px 0 0 12px;
+            padding: 20px 0 0 12px;
         }
       }
    
@@ -75,7 +75,7 @@
 
   @media (min-width: 70em) {
     .main-nav a  {
-        padding: 10px 24px 10px 24px;
+        padding: 10px 16px 10px 16px;
     }
   }
 
@@ -139,6 +139,10 @@
     }
     .posts li {
         margin-bottom: 60px;
+      }
+
+      .home-page li {
+        margin-bottom: 0;
       }
       .posts h3 {
         margin-top: 16px;

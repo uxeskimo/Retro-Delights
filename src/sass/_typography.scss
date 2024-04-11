@@ -33,9 +33,17 @@ h1 {
       margin-bottom: 0;
     }
 
+    .posts h2 {
+    grid-column: 1 / -1;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    }
+
   
   h2 {
-  font-size: var(--font-size-medium); }
+  font-family: 'all-round-gothic';
+  font-size: var(--font-size-medium);
+  color: var(--white-color); }
 
   .post h2 {
     font-size: 46px; 
@@ -70,6 +78,7 @@ h1 {
 
   p a {
     text-transform: none;
+    color: var(--white-color);
   }
 
   .highlight {
