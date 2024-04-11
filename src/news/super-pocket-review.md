@@ -11,8 +11,6 @@ alt: Le
 
 ![Alt text](/img/img-1.jpg "a title")
 
-**Hello from Retro Delights - our very first post**!
-
 A warm welcome to Retro Delights in the first post on our brand new website!
 
 I’m Lee Murray and in partnership with Alex Murray we have set up Retro Delights to create quality content on retro games and products.
