@@ -26,6 +26,7 @@ h1 {
       font-size: var(--font-size-large); 
       margin: 0 0 36px 0;
     }
+ 
   }
 
 
@@ -39,7 +40,6 @@ h1 {
     text-transform: uppercase;
     margin-top: 80px;
     }
-
   
   h2 {
   font-family: 'all-round-gothic';
@@ -56,6 +56,9 @@ h1 {
   @media (min-width: 50em) {
     .post h2  {
       font-size: 56px; 
+    }
+    .posts h2 {
+      margin-top: 40px;
     }
   }
   @media (min-width: 75em) {
