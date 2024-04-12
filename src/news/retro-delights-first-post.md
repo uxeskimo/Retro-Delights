@@ -2,10 +2,10 @@
 layout: post.njk 
 tags: ['news']
 categories: ["console"]
-title: Hello from Retro Delights - our very first post!
+title: Hello From Retro Delights - Our Very First Post!
 date: 2024-04-08
 author: "Lee Murray"
-image: /img/super-pocket-review.png
+image: /img/alex-space-invaders-arcade-thumb.png
 alt: Le
 ---
 
@@ -21,3 +21,4 @@ So this is the very start of Retro Delights, we’re learning as we go, the only
 
 Lee and Alex Murray.
 
+![Alt text](/img/alex-space-invaders-arcade.png "a title")
