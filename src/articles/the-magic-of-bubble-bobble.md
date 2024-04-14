@@ -5,11 +5,11 @@ categories: ["console"]
 title: The Magic Of Bubble Bobble
 date: 2024-04-13
 author: "Lee Murray"
-image: /img/top-10-final-fantasy.png
+image: /img/bub-bob-bubble-bobble-thumb.png
 alt: Bubble Bobble
 ---
 
-![Alt text](/img/fallout-pip-boy-replica.png "a title")
+![Alt text](/img/bub-bob-bubble-bobble.png "a title")
 
 
 ## Now it is the beginning of a fantastic story! 

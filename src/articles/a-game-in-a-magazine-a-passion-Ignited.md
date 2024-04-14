@@ -11,7 +11,9 @@ alt: Computer and Video Games Magazine
 
 ![Alt text](/img/fallout-pip-boy-replica.png "a title")
 
-It was around 1984, I would of been 9 years of age, at that time my family lived on a council estate in a place called '7 ways' Stretford, Manchester.
+## It started in the 80's
+
+<p class="drop-cap">It was around 1984, I would of been 9 years of age, at that time my family lived on a council estate in a place called '7 ways' Stretford, Manchester.</p>
 
 {A pic of a film from 1984?}
 
@@ -23,6 +25,12 @@ My only experience of playing video games at this point was in arcades but now v
 
 {A pic of a games systems/computers in 1984?}
 
+## Video games in the home
+
 Because of the popularity of video games, magazines about them we're also flying off the shelves, for me as a 9 year old, the magazines ignited my imagination of what the games we're like to play.
 
-With the use of illustrations, game screenshots and well designed stories, the games came alive for me in the pages, 
+With the use of illustrations, game screenshots and well designed stories, the games came alive for me in the pages,
+
+This <em>word</em> is italic
+
+<div class="example"></div>
