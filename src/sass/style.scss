@@ -165,26 +165,44 @@
     margin-right: 0.5rem;
 }
 
-.post-info {
-    margin-bottom: 40px;
-    font-family: 'all-round-gothic';
-    color: var(--purple-color);
-    font-size: 11px;
-    font-weight: 600;
-    font-style: normal;
-    text-transform: uppercase;
-}
-
 @media (min-width: 50em) {
     .post-info   {
        font-size:13px;
        margin-bottom: 60px;
     }
 }
+ 
+.post-list {
+    padding-left: 18px;
+}
 
-.post-info a {
+.post ul:nth-child(2) {
+    margin-left: 2px;
     color: var(--purple-color);
-    font-size: 13px;
+    margin-bottom: 40px;
+    font-family: 'all-round-gothic';
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+.post ul {
+    margin-left: 32px;
+    font-family: 'all-round-gothic';
+    color: var(--white-color);
+    font-size: 18px;
+}
+
+.post li {
+    list-style: disc;
+    line-height: 1.2;
+}
+
+@media (min-width: 50em) {
+    .post li {
+    line-height: 1.5;
+  }
 }
 
 /* Footer -------------------------------------------- */

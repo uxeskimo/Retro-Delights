@@ -34,7 +34,7 @@ From memory in my time of going to the baths in that period, it had 5 arcade mac
 
 It's catchy theme would draw you closer, I can still hear it clearly in my mind, the arcade cabinet had illustrations on the front of the main characters from the game Bub and Bob who both dragons.
 
-It was a two player game, complete with two joysticks and corresponding push buttons, the 10p(?) coin slots had the red glow encouraging you to insert a coin and get started.
+Released in 1986 from Taito, it was a two player game, complete with two joysticks and corresponding push buttons, the 10p(?) coin slots had the red glow encouraging you to insert a coin and get started.
 
 The aim of the game was to rescue Bub and Bobs girlfriends and in the process venture through the cave of monsters which consisted of over 100 levels and different caves.
 
@@ -46,10 +46,14 @@ Burst all the monsters in a level and you would move onto the next, along the wa
 
 Bubble Bobble had charm, bucket loads, I've always been big on film and game scores, this one was so catchy, it was defo a big part of the charm for me.
 
-It was also a classic two player game, it was better to play with someone else, it was fun and the pacing was good with the time time limits to make things get hectic.
+It was also full of hidden secrets and strategic play was important between two palyers, it was more fun to play with someone else and the pacing was good with the time time limits to make things get hectic.
 
-The game was quirky as well, the character design was none offensive, the design was quite simple but worked well.
+The game was quirky as well, the character design was none offensive, Bub and Bob we're a hit with a more uni sex appeal.
 
-For your 10p(?) you could get a decent amount of play time out of it as well, it was addictive and the play was varied enough to keep you coming back.
+For your 10p(?) you could get a decent amount of play time out of a game, it was addictive and the play was varied enough to keep you coming back, Bubble Bobble was also one of the first games to have multiple endings.
+
+## A success for Taito
+
+Bubble Bobble went on to become one of Taitos biggest hits with other games being released over the years on different platforms.
 
 As an initial post to get content on Retro Delights so we can get it live, it felt only right to do a one on Bubble Bobble, I've enjoyed going back to the 80's, to Sale swimming baths and the magic of Bubble Bobble.

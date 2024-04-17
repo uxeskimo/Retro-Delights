@@ -12,13 +12,24 @@ alt: Pip boy replica from the fallout series
 
 ![Alt text](/img/fallout-pip-boy-replica.png "a title")
 
-I was first introduced to the fallout series playing Fallout 3, the game was a classic,  the post apocalyptic world gripped my imagination, I was hooked.
+I was introduced to the fallout series with the third installent, Fallout 3 on the Playstation 3 when it was released back in 2008.
 
-Anyone that knows about fallout, will know about the pip boy, the (explain what pip boy is)
+Starting off in the underground vault 101, creating a character and heading off into the post apocalyptic world gripped me.
 
-And now you can own your very own pip boy
+Survival in this dark world depended on a few things, most notably the Pip-Boy 3000, a wearable personal information processor (PIP), worn on your left arm in the game and central to you developing your character.
+
+## A Die Cast 1-1 Replica from Bethesda
+Bethesda have created a Pip Boy Die Cast 1-1 Replica which is based on the Pip Boy seen in the new Fallout Amazon Prime TV series. 
+
+The front casing is made from die-cast metal, is wearable with a foam inset to make it more comfortable on the arm and has a functioning TFT LCD screen. 
+
+This replica looks an big improvement over the pip boy that came with the Fallout 4 game limited edition release back in 2015.
+
+![Alt text](/img/pip-boy-fallout-tv-series-replica.png "a title")
+
+## Pre-order your Pip Boy
+You can pre-order the Pip Boy Die Cast Replica by going to [Bethesda gear International](https://international.gear.bethesda.net/products/fallout-series-pip-boy-die-cast-replica).
 
 
-The die cast replica is based on the new fallout tv series that is exclusively going to be shown on Amazon prime from the 16th April free for all prime customers.
 
-This replica looks an improvement over the pip boy that came with the Fallout 4 game limited edition release.
+
