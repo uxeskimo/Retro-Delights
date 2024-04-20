@@ -12,7 +12,7 @@ alt: Pip boy replica from the fallout series
 
 ![Alt text](/img/fallout-pip-boy-replica.png "a title")
 
-I was introduced to the fallout series with the third installent, Fallout 3 on the Playstation 3 when it was released back in 2008.
+I was introduced to the fallout series with the third installment, Fallout 3 on the Playstation 3 when it was released back in 2008.
 
 Starting off in the underground vault 101, creating a character and heading off into the post apocalyptic world gripped me.
 
