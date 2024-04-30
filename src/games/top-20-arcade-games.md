@@ -71,8 +71,7 @@ Star wars a new hope was released 1977, the arcade didnt follow until 1983, the 
 
 ## 5. Gauntlet
 
-Image from arcade
-![Alt text](/img/fallout-pip-boy-replica.png "a title")
+![Alt text](/img/Arcade-top-10-gauntlet.png "a title")
 
 Gauntlet was released in 1986 by Atari games, inspired by the Dungeons and Dragons board game, you could have up to four players taking the role of Thor the warrior, Merlin the wizard, Thyra the valkyrie or Questor the elf.
 
@@ -90,8 +89,7 @@ Accompaied by one of the catchiest sound scores to grace a game, Bubble Bobble w
 
 ## 3. Outrun 
 
-Image from arcade
-![Alt text](/img/fallout-pip-boy-replica.png "a title")
+![Alt text](/img/Arcade-top-10-outrun.png "a title")
 
 Released in 1986 by Sega as a stand up and sit down cabinets, Outrun oozed cool and set the standard for driving games.
 
