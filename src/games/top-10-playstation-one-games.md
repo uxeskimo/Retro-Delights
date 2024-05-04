@@ -38,11 +38,15 @@ Easy to pick up and play, it had a stong mix of simulation and arcade, with a fo
 
 ## 7. Resident Evil 2
 
+![Alt text](/img/playstation-one-resident-evil-2.png "a title")
+
 Not the only survival horror gamne in this list, Resident Evil 2 was released in 1998 and was developed and published by Capcom.
 
 You could play the game as either Leon or Claire naviggating them throgu some of the best level design in the Playstaion one era, solving puzzles, uncovering the meystories of the game and genrally try to stay alive.
 
 ## 6. Pro Evolution Soccer 2
+
+![Alt text](/img/playstation-one-iss-pro-evo-2.png "a title")
 
 The pro evo series was the number one football simulator before Fifa rose to fame and Pro Evo we'nt to pot.
 
@@ -60,6 +64,8 @@ Snake had to use his abilities and the enviroment around him to stay undetected,
 
 ## 4. Silent Hill
 
+![Alt text](/img/playstation-one-silient-hill.png "a title")
+
 In 1999 we saw the first installent of the Silent Hill series, a game developed by Team Silent and pubished by Konami.
 
 You played the character Harry Mason, his wife had died and he was grieving and goes on a vacation with his adopted daughter Cheryl to the town of Silient Hill.
@@ -67,7 +73,6 @@ You played the character Harry Mason, his wife had died and he was grieving and 
 Driving on route to Silent Hill, Harry is left unconcious as he vaoids hitting a girl in the road, he wakes to find Cheryl has gone and on foot walks into the mysterios town of Silent hill.
 
 Silent hill was a survival horror game, it involved solving puzzles, combatting the many horrors of the game and exploration, it has a unique eeiries feel which really did create a terryifying atmoshphere.
-
 
 
 ## 3. Grand Turismo 2
@@ -78,6 +83,8 @@ In Grand Turismo 2 you had a wealth of cars and options you could configure, the
 
 
 ## 2. Tombraider
+
+![Alt text](/img/playstation-one-tombraider.png "a title")
 
 Laura Croft the archaeologist adventurer came to the Playstation back in 1996 when Eiidos released it (Core design developed it) to much aclaim.
 

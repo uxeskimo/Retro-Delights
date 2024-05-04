@@ -4,7 +4,7 @@ tags: ['games']
 title:  The Top 10 Arcade Games Of All Time
 date: 2024-04-13
 author: "Lee Murray"
-image: /img/top-10-final-fantasy.png
+image: /img/outrun-arcade-thumb.png
 alt: Arcades
 ---
 
@@ -18,8 +18,7 @@ In this list we look at what we think out the top 10 greatest arcade games of al
 
 ## 10. Paperboy 
 
-Image from arcade
-![Alt text](/img/fallout-pip-boy-replica.png "a title")
+![Alt text](/img/Arcade-top-10-paperboy.png "a title")
 
 Paperboy was a bit different, well for starters it had a bike handlebar with grips as a controller, in the game you we're a paperboy who had to deliver newspaers to cutomers while while avoiding the dangers on the streets.
 
@@ -27,8 +26,7 @@ Released by Atari games in April 1985 you would have to throw the papers to a cu
 
 ## 9. Dragons Liar
 
-Image from arcade/1/6 arcade
-![Alt text](/img/fallout-pip-boy-replica.png "a title")
+![Alt text](/img/Arcade-top-10-paperboy.png "a title")
 
 June 19th 1983 was the exact date Dragons Liar became known to the word as the first full animation laser disc video game.
 
@@ -97,8 +95,7 @@ Driving a Ferrari Testarossa convertible with your gilfriend by your side along 
 
 ## 2. Pacman
 
-Image from arcade/1/4 arcade
-![Alt text](/img/fallout-pip-boy-replica.png "a title")
+![Alt text](/img/Arcade-top-10-pacman.png "a title")
 
 You cant mention arcade without Pacman coming up, the game was released first in Japan July 1980 and was licensed to the Midway Manuafatoring compnay in the United and released a few monthls later in October 1980 in the United States and world wide soon after.
 

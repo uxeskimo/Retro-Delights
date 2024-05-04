@@ -5,7 +5,7 @@ categories: ["console"]
 title: Don't shoot the food - The Beauty of Guantlet
 date: 2024-04-13
 author: "Lee Murray"
-image: /img/top-10-final-fantasy.png
+image: /img/the-beauty-of-gauntlet-thumb.png
 alt: Gauntlet
 ---
 
