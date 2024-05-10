@@ -51,11 +51,6 @@ eleventyConfig.addFilter("postDate", (dateObj) => {
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
     html: true,
-  }).use(markdownItAnchor, {
-    permalink: markdownItAnchor.permalink.ariaHidden({
-      class: "tdbc-anchor",
-      space: false,
-    }),
     level: [1, 2, 3],
     slugify: (s) =>
       s
