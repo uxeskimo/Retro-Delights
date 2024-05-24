@@ -9,7 +9,7 @@ image: /img/top-10-final-fantasy.png
 alt: Computer and Video Games Magazine
 ---
 
-![Alt text](/img/fallout-pip-boy-replica.png "a title")
+![Alt text](/img/retro-magazines.png "a title")
 
 ## It started in the 80's
 
