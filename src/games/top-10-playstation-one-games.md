@@ -24,12 +24,16 @@ Tekken 3 was ported from the arcade version and had all the modes and then some,
 
 ## 9. Wipeout 2097 
 
+![Alt text](/img/playstation-one-wipeout-2097.png "a title")
+
 Wipeout was released in 1996, developed and published by Psygnosis, it was the sequel to Wipeout and was a futuristic racing game with an empahsis on speed.  
 
 You controlled a space ship with anti gravity and would partcipate in races with other ships to the sound of electric dance music.
 
 
 ## 8. Tony Hawks Pro Skater 2
+
+![Alt text](/img/playstation-one-tony-hawks-2.png "a title")
 
 A 2000 release, Tony Hawks Pro Skater 2 was developed by Neversoft and published by Activision as a followup to the successful Tony Hawk's Pro Skater which was released in just the previous year.
 
@@ -75,11 +79,13 @@ Driving on route to Silent Hill, Harry is left unconcious as he vaoids hitting a
 Silent hill was a survival horror game, it involved solving puzzles, combatting the many horrors of the game and exploration, it has a unique eeiries feel which really did create a terryifying atmoshphere.
 
 
-## 3. Grand Turismo 2
+## 3. Gran Turismo 2
 
-Following the success of the orginal game, Grand Turismo 2 was developed by Polyphony Digital and released in 1999 by Sony Computer Enterainmnet and was the ultimate driving simulator which improved on its predecessor.
+![Alt text](/img/playstation-one-gran-turismo-2.png "a title")
 
-In Grand Turismo 2 you had a wealth of cars and options you could configure, the modes to play in could be arcade or if you wanted to get more serious similuation mode really brought out the options to configure and really got into yhte dynamics of racing a car.
+Following the success of the orginal game, Gran Turismo 2 was developed by Polyphony Digital and released in 1999 by Sony Computer Enterainmnet and was the ultimate driving simulator which improved on its predecessor.
+
+In Gran Turismo 2 you had a wealth of cars and options you could configure, the modes to play in could be arcade or if you wanted to get more serious similuation mode really brought out the options to configure and really got into yhte dynamics of racing a car.
 
 
 ## 2. Tombraider
