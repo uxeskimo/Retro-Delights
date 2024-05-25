@@ -4,11 +4,11 @@ tags: ['games']
 title:  The Top 10 Playstation One Games Of All Time
 date: 2024-04-13
 author: "Lee Murray"
-image: /img/top-10-final-fantasy.png
+image: /img/playstation-one-console-thumb.png
 alt: Sony Playstation One
 ---
 
-![Alt text](/img/fallout-pip-boy-replica.png "a title")
+![Alt text](/img/playstation-one-console.png "a title")
 
 There is no doubting how great the Playstation 1 console was, produced by Sony, released in Japan in 1994 and 1995 for the rest of the world, it was the first console to sell over 100 million units.
 
