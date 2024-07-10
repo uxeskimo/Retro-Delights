@@ -17,6 +17,8 @@ It would be another five years before the Sony Playstation 2 was released, in th
 
 ## 10. Tekken 3
 
+![Alt text](/img/playstation-one-tekken-3.png "a title")
+
 Starting off with a fighting game, the thrid in the Tekken series, Tekken 3 was developed and published by Namco and released in 1998.
 
 Tekken 3 was ported from the arcade version and had all the modes and then some, it pushed the playstation to its limits, you had two punch and kick buttons and move left and right with some great 2d backgrounds.
@@ -60,6 +62,8 @@ The Pro Evo series will hold fond memories in a lot of retro players hearts with
 
 ## 5. Metal Gear Solid
 
+![Alt text](/img/playstation-one-metal-gear-solid.png "a title")
+
 Hideo Kojima was the mastermind behind Metal Gear Solid, which was developed and published by Konami and released in 1998.
 
 You took control of Solid Snake who navigating his way around a nuclear weapons facility, with the goal not to be detected by terrosit outfit FOXHOUND. 
@@ -100,6 +104,8 @@ Laura croft became an iconic games figure and the tombraiders series is still go
 
 
 ## 1. Final Fantasy VII
+
+![Alt text](/img/playstation-one-final-fantasy-7.png "a title")
 
 This wasn't difficult for me, Final Fantasy VII had it all and then some, an absolute classic and way ahead of its time when Square developed it and Sony Computer Enterainmnet released it back in 1997.
 
