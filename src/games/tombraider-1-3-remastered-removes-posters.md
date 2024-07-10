@@ -4,12 +4,12 @@ tags: ['games']
 title: Tomb Raider 1-3 Remastered Lara Croft Posters
 date: 2024-04-27
 author: "Lee Murray"
-image: /img/top-10-final-fantasy.png
+image: /img/tombraider-remastered-thumb.png
 alt: Lara Croft and Posters
 ---
 
 
-![Alt text](/img/fallout-pip-boy-replica.png "a title")
+![Alt text](/img/tombraider-1-3-remastered.png "a title")
 
 A set of posters of Lara Crost in the Tombraider 1-3 Remastered game have been removed in a recent patch when using the visual mode option.
 
