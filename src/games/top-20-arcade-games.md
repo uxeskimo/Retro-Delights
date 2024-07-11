@@ -18,7 +18,7 @@ In this list we look at what we think out the top 10 greatest arcade games of al
 
 ## 10. Paperboy 
 
-![Alt text](/img/Arcade-top-10-paperboy.png "a title")
+![Alt text](/img/arcade-top-10-paperboy.png "a title")
 
 Paperboy was a bit different, well for starters it had a bike handlebar with grips as a controller, in the game you we're a paperboy who had to deliver newspaers to cutomers while while avoiding the dangers on the streets.
 
@@ -26,7 +26,7 @@ Released by Atari games in April 1985 you would have to throw the papers to a cu
 
 ## 9. Dragons Liar
 
-![Alt text](/img/Arcade-top-10-paperboy.png "a title")
+![Alt text](/img/arcade-top-10-paperboy.png "a title")
 
 June 19th 1983 was the exact date Dragons Liar became known to the word as the first full animation laser disc video game.
 
@@ -36,8 +36,7 @@ The game required 200 correct moves to complete which was no mean feat, it could
 
 ## 8. Tron
 
-Image from arcade
-![Alt text](/img/fallout-pip-boy-replica.png "a title")
+![Alt text](/img/arcade-top-10-tron.png "a title")
 
 Tron was released as an arcade in the same year as the film in 1982 and was produced by Bally Midway in a deal with Disney and sold over 20,000 cabinets.
 
@@ -48,7 +47,7 @@ The cabinet had an iconic look and feel, with its backlights and translucent blu
 
 ## 7. Donkey Kong 
 
-![Alt text](/img/Arcade-top-10-donkey-kong.png "a title")
+![Alt text](/img/arcade-top-10-donkey-kong.png "a title")
 
 The first game in the Donky Kong series and released in 1981 by Nintendo, Donky Kong was also one of the first games in the platform genre itself.
 
@@ -60,8 +59,7 @@ The game had four different stages and Mario would make his way climbing up ladd
 
 ## 6. Star Wars 
 
-Image from arcade
-![Alt text](/img/fallout-pip-boy-replica.png "a title")
+![Alt text](/img/arcade-top-10-star-wars.png "a title")
 
 The Star wars arcade give you the oppotunity to reenact Luke Skywalker and the death start trench run, as a kid this was a big deal.
 
@@ -69,7 +67,7 @@ Star wars a new hope was released 1977, the arcade didnt follow until 1983, the 
 
 ## 5. Gauntlet
 
-![Alt text](/img/Arcade-top-10-gauntlet.png "a title")
+![Alt text](/img/arcade-top-10-gauntlet.png "a title")
 
 Gauntlet was released in 1986 by Atari games, inspired by the Dungeons and Dragons board game, you could have up to four players taking the role of Thor the warrior, Merlin the wizard, Thyra the valkyrie or Questor the elf.
 
@@ -79,7 +77,7 @@ The game played like a shoot em up within a series of mazes, you had to find the
 
 ## 4. Bubble Bobble
 
-![Alt text](/img/Arcade-top-10-bubble-bobble.png "a title")
+![Alt text](/img/arcade-top-10-bubble-bobble.png "a title")
 
 Bubble Bobble was released by Taito in 1986 with two players being able to take control of the dinasaurs Bub and Bob to help them find their kidnappped girlfriends in a charming platform game where you would fire bubbles at the enemies and then burst them on each level to progress.
 
@@ -87,7 +85,7 @@ Accompaied by one of the catchiest sound scores to grace a game, Bubble Bobble w
 
 ## 3. Outrun 
 
-![Alt text](/img/Arcade-top-10-outrun.png "a title")
+![Alt text](/img/arcade-top-10-outrun.png "a title")
 
 Released in 1986 by Sega as a stand up and sit down cabinets, Outrun oozed cool and set the standard for driving games.
 
@@ -95,7 +93,7 @@ Driving a Ferrari Testarossa convertible with your gilfriend by your side along 
 
 ## 2. Pacman
 
-![Alt text](/img/Arcade-top-10-pacman.png "a title")
+![Alt text](/img/arcade-top-10-pacman.png "a title")
 
 You cant mention arcade without Pacman coming up, the game was released first in Japan July 1980 and was licensed to the Midway Manuafatoring compnay in the United and released a few monthls later in October 1980 in the United States and world wide soon after.
 
@@ -105,8 +103,7 @@ Iconic grpahics, iconice sounds and simple addicitve gameplay, control pacman in
 
 ## 1. Space Invaders
 
-Image from arcade/1/4 arcade
-![Alt text](/img/fallout-pip-boy-replica.png "a title")
+![Alt text](/img/arcade-top-10-space-invaders.png "a title")
 
 This games needs no introduction, created by [Tomohiro Nishikado](https://en.wikipedia.org/wiki/Tomohiro_Nishikado) and released in Japan June 1978 by Taito and worlwide a few monthls later in October 1978.
 
