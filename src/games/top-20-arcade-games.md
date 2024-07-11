@@ -4,11 +4,11 @@ tags: ['games']
 title:  The Top 10 Arcade Games Of All Time
 date: 2024-04-13
 author: "Lee Murray"
-image: /img/outrun-arcade-thumb.png
+image: /img/top-10-arcades-thumb.png
 alt: Arcades
 ---
 
-![Alt text](/img/fallout-pip-boy-replica.png "a title")
+![Alt text](/img/arcade-top-10-new-wave.png "a title")
 
 Arcades are a massive part of gaming history and one of the reasons I set up Retro Delights so we could write about them to help contribute to a golden era not being forgotton.
 
@@ -26,7 +26,7 @@ Released by Atari games in April 1985 you would have to throw the papers to a cu
 
 ## 9. Dragons Liar
 
-![Alt text](/img/arcade-top-10-paperboy.png "a title")
+![Alt text](/img/arcade-top-10-dragons-liar.png "a title")
 
 June 19th 1983 was the exact date Dragons Liar became known to the word as the first full animation laser disc video game.
 

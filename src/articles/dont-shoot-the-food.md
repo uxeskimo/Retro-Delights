@@ -2,14 +2,14 @@
 layout: post.njk 
 tags: ['article']
 categories: ["console"]
-title: Don't shoot the food - The Beauty of Guantlet
+title: Don't shoot the food - Guantlet
 date: 2024-04-13
 author: "Lee Murray"
 image: /img/the-beauty-of-gauntlet-thumb.png
 alt: Gauntlet
 ---
 
-![Alt text](/img/fallout-pip-boy-replica.png "a title")
+![Alt text](/img/guantlet-book.png "a title")
 
 ## Arcades in the 80's
 
