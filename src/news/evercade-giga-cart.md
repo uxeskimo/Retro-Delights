@@ -5,10 +5,9 @@ categories: ["console"]
 title: Evercade Announce Giga Cart - Bigger Retro Games
 date: 2024-04-15
 author: "Lee Murray"
-image: /img/evercade-giga-cart-thumb.png
+image: /img/evercade-cartridges-thumb.png
 alt: Evercade Giga Cart
 ---
-
 
 ![Alt text](/img/evercade-giga-cart.png "a title")
 
@@ -23,5 +22,7 @@ Whats more the Giga Carts will be priced at £22.49, which seems fair conisderin
 
 ## Two Giga Carts coming in 2024
 More good news is we will have two Giga Cart relases in 2024, so we we will keep our eyes peeled for what game collection will come with the initial relases.
+
+![Alt text](/img/evercade-cartridges.png "a title")
 
 For more info on Giga Carts, have a look on the [Evercade website](https://evercade.co.uk/introducing-giga-cart/).
