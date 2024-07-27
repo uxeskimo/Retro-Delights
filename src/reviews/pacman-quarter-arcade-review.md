@@ -1,7 +1,7 @@
 ---
 layout: post.njk 
 tags: ['reviews']
-title:  Pacman Quarter Arecade Review - A 1:4 Scale Replica
+title:  Pacman Quarter Arcade Review - A 1:4 Scale Replica
 date: 2024-04-13
 author: "Lee Murray"
 image: /img/pacman-marquee-lights-thumb.png
