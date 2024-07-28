@@ -55,5 +55,8 @@
   },
   "browserslist": [
     "last 2 versions"
-  ]
+  ],
+  "dependencies": {
+    "netlify-plugin-cloudinary": "^1.17.0"
+  }
 }
