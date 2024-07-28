@@ -17,4 +17,11 @@
     status = 200
 
 
- 
+  [[plugins]]
+
+  package = "netlify-plugin-cloudinary"
+
+  [[plugins.inputs]]
+
+  package = "retrodelights"
+  deliveryType = "upload"
