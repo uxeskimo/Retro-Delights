@@ -12,7 +12,7 @@ alt: N64
 
 The Galaga Quarter Arcade...
 
-This is quality!!!!
+This is quality!
 
 ![Alt text](/img/galaga-side-view.png "a title")
 
