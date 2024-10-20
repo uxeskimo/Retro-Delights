@@ -42,9 +42,9 @@ They charge by USB-C (cable included) with each charge giving you 4+ hours of pl
 
 ![Alt text](/img/super-pocket-ghouls-n-ghosts-menu.png "a title")
 
-The screen is 7.112cm in size and 320px by 240px resolution, its bright with decent colours, it does the job. 
+The screen is 7.112cm in size and 320px by 240px resolution, it’s bright with decent colours, it does the job. 
 
-It's all about compromise with the size and resolution of the screen, some games with look sharp, some less so, all in all it works well.
+It's all about compromise with the size and resolution of the screen, some games will look sharp, some less so, all in all it works well.
 
 Sound was louder than expected and packs a punch, the catchy Bubble Bobble soundtrack on the Taito edition sounded great.
 
