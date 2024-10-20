@@ -10,7 +10,7 @@ alt: Pip boy replica from the fallout series
 ---
 
 
-![Alt text](/img/fallout-pip-boy-replica.png "a title")
+![Alt text](/img/fallout-pip-boy-replica.png "A detailed replica of a Pip-Boy from the Fallout series, featuring a retro-futuristic design with a screen displaying a green monochrome interface. It is mounted on a stand labeled PROPERTY OF VAULT-TEC.")
 
 I was introduced to the fallout series with the third instalment, Fallout 3 on the Playstation 3 when it was released back in 2008.
 
@@ -26,7 +26,7 @@ The front casing is made from die-cast metal, is wearable with a foam inset to m
 
 This replica looks a big improvement over the pip boy that came with the Fallout 4 game limited edition release back in 2015.
 
-![Alt text](/img/pip-boy-fallout-tv-series-replica.png "a title")
+![Alt text](/img/pip-boy-fallout-tv-series-replica.png "A metallic, futuristic Pip-Boy device with knobs and a screen, is displayed against a plain white background.")
 
 ## Pre-order your Pip Boy
 

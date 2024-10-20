@@ -9,7 +9,7 @@ image: /img/evercade-cartridges-thumb.png
 alt: Evercade Giga Cart
 ---
 
-![Alt text](/img/evercade-giga-cart.png "a title")
+![Alt text](/img/evercade-giga-cart.png "Close-up of a red Evercade Giga Cart with the Giga logo in the upper right corner.")
 
 Today Evercade announced a new cartridge, the Giga Cart, which will hold bigger and more modern retro games with its larger capacity.
 
@@ -23,7 +23,7 @@ Giga Carts will cost £22.49, which seems fair considering the extra storage and
 
 ## Two Giga Carts coming in 2024
 
-![Alt text](/img/evercade-cartridges.png "a title")
+![Alt text](/img/evercade-cartridges.png "Three Evercade video game cartridges on a gray speckled surface: Jaleco Collection 1, IREM Arcade 1, and Namco Museum Collection 1.")
 
 More good news is we will have two Giga Cart releases in 2024, so will keep our eyes peeled for what game collection will come with the initial releases.
 

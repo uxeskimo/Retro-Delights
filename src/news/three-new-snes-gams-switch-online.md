@@ -9,7 +9,7 @@ image: /img/super-r-type-thumb.png
 alt: OLED Nintendo Switch
 ---
 
-![Alt text](/img/snes-online-switch.png "a title")
+![Alt text](/img/snes-online-switch.png "A Nitendo Switch on a wooden surface displaying a selction of games from Nintendo Switch Online.")
 
 
 From today, if you have a Nintendo Switch and Nintendo Switch Online you will be able to play three classic SNES games!
@@ -26,7 +26,7 @@ Released in 1994 and developed by Sunsoft in Japan, this was a fighting style sp
 
 ## Super R-Type
 
-![Alt text](/img/super-r-type-snes-switch.png "a title")
+![Alt text](/img/super-r-type-snes-switch.png "A Nitendo Switch running the R-Type game.")
 
 R-Type needs no introduction, released in 1991 this classic shooter was based on the arcade version of R-Type 2, taking some of the levels from that and adding new ones as well.
 
