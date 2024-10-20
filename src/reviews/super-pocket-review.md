@@ -114,11 +114,11 @@ Mega man had bypassed me back in the day, this was the first time I’d played i
 
 The 1942 games are vertical shooters so obviously don’t look as great on the small screen but are still playable.
 
-Street Fighter II’ and Bionic Commando are also stellar games, although not as many games on this edition, it still an impressive selection.
+Street Fighter II’ and Bionic Commando are also stellar games, although there are not as many games on this edition, it still an impressive selection.
 
 ![Alt text](/img/super-pocket-space-invaders.png "a title")
 
 ## Verdict
-For under £50, the super pockets offer good value, the massive 500+ Evercade cartridge library brings a unique angle.
+For under £50, the super pockets offer good value, the massive 500+ Evercade cartridge library brings an unique angle.
 
 Yes there are better handhelds out there but these don't play official roms, so no faff out of the box retro gaming with the Super Pockets.
