@@ -9,7 +9,7 @@ image: /img/alex-space-invaders-arcade-thumb.png
 alt: Le
 ---
 
-![Alt text](/img/img-1.jpg "a title")
+![Alt text](/img/alex-space-invaders-arcade.png "a title")
 
 A warm welcome to Retro Delights in the first post on our brand new website!
 
@@ -21,4 +21,4 @@ So this is the very start of Retro Delights, we’re learning as we go, the only
 
 Lee and Alex Murray.
 
-![Alt text](/img/alex-space-invaders-arcade.png "a title")
+

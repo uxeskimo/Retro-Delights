@@ -13,21 +13,23 @@ alt: Gauntlet
 
 ## Arcades in the 80's
 
-The golden age of arcades for me (and most) was in the 80's, what a feeling stepping foot into a carpeted room, the different iconic sounds playing over one an other, imaginative cabinet art, the neon lights, marquees lit up, the attract modes encouraging you to come and spend you're coins.
+The golden age of arcades for most was in the 80's, what a feeling stepping foot into an arcade in that period. 
+
+You’d be greeted by a funky carpet, the different iconic sounds playing over one an other would hit you, the imaginative cabinet art, neon lights, marquees lit up, the attract modes encouraging you to come and spend you're coins.
 
 ## Dungeons and dragons inspiration
 
-Guantlet was a popular game from that time, develped by Atari from the mind of [Ed Logg](https://en.wikipedia.org/wiki/Ed_Logg) and was relased in 1985, it was orginally to be titled Dungeons which was inspired by the Dungeos and Dragons board game, but to avoid legal issues Atari went for Guantlet instead and the rest is history.
+Guantlet was a popular game from that time, developed by Atari from the mind of [Ed Logg](https://en.wikipedia.org/wiki/Ed_Logg) and was released in 1985. It was originally to be titled Dungeons which was inspired by the Dungeons and Dragons board game, but to avoid legal issues Atari went for Guantlet instead and the rest is history.
 
-The arcade was a four player cabinet, which at the time wansn't a common sight in arcades, you could choose from Thor the warrior, Merlin the wizard, Thyra the valkyrie and Questor the elf (you can see the influence from Dungeos and Dragons).
+The arcade was a four player cabinet, which at the time wasn’t a common sight in arcades, you could choose from Thor the warrior, Merlin the wizard, Thyra the valkyrie and Questor the elf (you can see the influence from Dungeons and Dragons).
 
 Each character had their strengths and weaknesses, my go to's would be Warrior or Wizard, it played like a shoot em up within a series of mazes, you had to find the exit to each level.
 
-In each level youre characters health would be always counting down, so killing/avoiding enemies whilst looking for food and magic made Gauntlet a bit different to other arcades at the time, it was lots of fun.
+In each level you’re characters health would be always counting down, so killing/avoiding enemies whilst looking for food and magic made Gauntlet a bit different to other arcades at the time, it was lots of fun.
 
 ## Sound snippets to die for, litrally
 
- You can't mention Guantlet without bringing up its sound, it had some classic soundbites, from the chime when you inserted a coin, to the sarcastic "Who shot the food" or the warning "Wizard is about to die", for more sounds from Guantlet have a listen at [Basements Arcade](https://www.basementarcade.com/Gaunlet.html).
+You can't mention Guantlet without bringing up its sound, it had some classic soundbites, from the chime when you inserted a coin, to the sarcastic "Who shot the food" or the warning "Wizard is about to die", for more sounds from Guantlet have a listen at [Basements Arcade](https://www.basementarcade.com/Gaunlet.html).
 
 
 ## Guantlet games 

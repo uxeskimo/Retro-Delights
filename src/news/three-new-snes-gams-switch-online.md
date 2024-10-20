@@ -12,7 +12,7 @@ alt: OLED Nintendo Switch
 ![Alt text](/img/snes-online-switch.png "a title")
 
 
-From today, if you have a Nintendo Switch and Nintento Switch Online you will be able to play three classic SNES games!
+From today, if you have a Nintendo Switch and Nintendo Switch Online you will be able to play three classic SNES games!
 
 The games are:
 
@@ -36,7 +36,7 @@ R-Type needs no introduction, released in 1991 this classic shooter was based on
 The sequal to Wreking Crew, this came out in 1998 and featured Mario and Bowser in a game that was around puzzles in a [Tetris](https://www.nintendo.com/en-gb/Games/Game-Boy/TETRIS--275924.html) and [Puyo Puyo](https://en.wikipedia.org/wiki/Puyo_Puyo) style.
 
 ## Nintendo Switch Online & Expansion Pack
-We think Ninento Switch Online offers good value, for retro gamers the expansion pack unlocks even more retro games to play, for more info on what you get with membership have a look on [Nintendos website](https://www.nintendo.com/en-gb/Nintendo-Switch-Online/Membership-options/Membership-options-1374627.html).
+We think Nintendo Switch Online offers good value, for retro gamers the expansion pack unlocks even more retro games to play, for more info on what you get with membership have a look on [Nintendo's website](https://www.nintendo.com/en-gb/Nintendo-Switch-Online/Membership-options/Membership-options-1374627.html).
 
 
 
