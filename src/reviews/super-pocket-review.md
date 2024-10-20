@@ -87,7 +87,7 @@ I was drawn to the Taito edition first, it comes preinstalled with 18 games:
 
 I started with Bubble Bobble, it plays well and was an enjoyable experience. On the other hand Operation Wolf was a weird one, a light gun game on a small handheld is not a great match, still it brought back nostalgia.
 
-Space Invaders on this screen is always going to be a compromised play.  For me it’s OK and like having such a classic to be able to pick up and try to beat my highest score.
+Space Invaders on this screen is always going to be a compromised play.  For me it’s OK and I like having such a classic to be able to pick up and try to beat my highest score.
 
 Other standouts for me on this list are The New Zealand Story, Puzzle Bobble, Elevator Action and Rastan.
 
