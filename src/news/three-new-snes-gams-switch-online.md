@@ -6,10 +6,10 @@ title: Three New SNES Games On Switch Online
 date: 2024-04-12
 author: "Lee Murray"
 image: /img/super-r-type-thumb.png
-alt: A Nintendo OLED Switch running the R-Type game.
+alt: A Nitendo OLED Switch on a wooden surface displaying a selction of games from Nintendo Switch Online.
 ---
 
-![Alt text](/img/snes-online-switch.png "A Nitendo Switch on a wooden surface displaying a selction of games from Nintendo Switch Online.")
+![Alt text](/img/snes-online-switch.png "A Nitendo OLED Switch on a wooden surface displaying a selction of games from Nintendo Switch Online.")
 
 
 From today, if you have a Nintendo Switch and Nintendo Switch Online, you will be able to play three classic SNES games!
