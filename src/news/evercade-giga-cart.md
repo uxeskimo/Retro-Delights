@@ -27,6 +27,6 @@ Giga Carts will cost £22.49, which seems fair considering the extra storage and
 
 More good news is we will have two Giga Cart releases in 2024, so will keep our eyes peeled for what game collection will come with the initial releases.
 
-Evercade are developing their offerings with the Giga Cart a good example of this, what a time to be a retro gamer!
+Evercade is developing its offerings with the Giga Cart a good example of this, what a time to be a retro gamer!
 
-For more info on Giga Carts, have a look on the [Evercade website](https://evercade.co.uk/introducing-giga-cart/).
+For more info on Giga Carts, look on the [Evercade website](https://evercade.co.uk/introducing-giga-cart/).
