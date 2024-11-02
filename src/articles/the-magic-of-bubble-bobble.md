@@ -9,7 +9,7 @@ image: /img/bub-bob-bubble-bobble-thumb.png
 alt: A Bubble Bobble quarter arcade cabinet on a quartz worktop surface in a kitchen.
 ---
 
-![Alt text](/img/bub-bob-bubble-bobble.png "A Bubble Bobble quarter arcade cabinet on a quartz worktop surface in a kitchen.")
+![A Bubble Bobble quarter arcade cabinet on a quartz worktop surface in a kitchen.](/img/bub-bob-bubble-bobble.png "Bubble Bobble")
 
 
 ## The beginning of a fantastic story

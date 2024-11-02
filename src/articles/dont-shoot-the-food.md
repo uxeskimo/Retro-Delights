@@ -9,7 +9,7 @@ image: /img/the-beauty-of-gauntlet-thumb.png
 alt: Gameplay of Gauntlet.
 ---
 
-![Alt text](/img/guantlet-book.png "An open 'Coin-Op: The Arcade Guide' book which shows information about the Gauntlet games.")
+![An open 'Coin-Op: The Arcade Guide' book which shows information about the Gauntlet games.](/img/guantlet-book.png "Gauntlet")
 
 ## Arcades in the 80's
 

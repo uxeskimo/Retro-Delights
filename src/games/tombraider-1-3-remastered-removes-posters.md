@@ -9,7 +9,7 @@ alt: The menu in the Tombraider 1-3 Remastered game.
 ---
 
 
-![Alt text](/img/tombraider-1-3-remastered.png "A Sony TV on a wall disaplaying the Tombraider 1-3 Remastered game.")
+![A Sony TV on a wall disaplaying the Tombraider 1-3 Remastered game.](/img/tombraider-1-3-remastered.png "Tombraider")
 
 A set of posters of Lara Croft in the Tomb Raider 1-3 Remastered game have been removed in a recent patch when using the visual mode option.
 

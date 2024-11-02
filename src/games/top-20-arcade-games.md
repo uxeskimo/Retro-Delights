@@ -8,7 +8,7 @@ image: /img/top-10-arcades-thumb.png
 alt: Three boxed New Wave 1/6 scaled arcade cabinets on a wooden table top surface.
 ---
 
-![Alt text](/img/arcade-top-10-new-wave.png "Three boxed New Wave 1/6 scaled arcade cabinets, Missle Command, Qbert and Dragons Liar on a wooden table top surface.")
+![Three boxed New Wave 1/6 scaled arcade cabinets, Missle Command, Qbert and Dragons Liar on a wooden table top surface.](/img/arcade-top-10-new-wave.png "Boxed arcades")
 
 Arcades are a massive part of gaming history and one of the reasons we set up Retro Delights so we could write about them to help contribute to a golden era not being forgotten.
 
@@ -16,7 +16,7 @@ In this list, we look at what we think are the top 10 greatest arcade games of a
 
 ## 10. Paperboy 
 
-![Alt text](/img/arcade-top-10-paperboy.png "A close up of an arcade playing the Paperboy arcade game.")
+![A close up of an arcade playing the Paperboy arcade game.](/img/arcade-top-10-paperboy.png "Paperboy")
 
 Paperboy was a bit different, well, for starters, it had a bike handlebar with grips as a controller, in the game, you were a paperboy who had to deliver newspapers to customers while while avoiding the dangers on the streets.
 
@@ -24,7 +24,7 @@ Released by Atari Games in April 1985, you would have to throw the papers to a c
 
 ## 9. Dragons Liar
 
-![Alt text](/img/arcade-top-10-dragons-liar.png "A close up of an arcade playing the Dragons Liar arcade game.")
+![A close up of an arcade playing the Dragons Liar arcade game.](/img/arcade-top-10-dragons-liar.png "Dragons Liar")
 
 June 19th 1983, was the exact date Dragons Liar became known to the world as the first full animation laser disc video game.
 
@@ -34,7 +34,7 @@ The game required 200 correct moves to complete, which was no mean feat, it coul
 
 ## 8. Tron
 
-![Alt text](/img/arcade-top-10-tron.png "A close up of an arcade playing the Tron arcade game.")
+![A close up of an arcade playing the Tron arcade game.](/img/arcade-top-10-tron.png "Tron")
 
 Tron was released as an arcade in the same year as the film in 1982 and was produced by Bally Midway in a deal with Disney and sold over 20,000 cabinets.
 
@@ -44,7 +44,7 @@ The cabinet had an iconic look and feel, with its backlights and translucent blu
 
 ## 7. Donkey Kong 
 
-![Alt text](/img/arcade-top-10-donkey-kong.png "A close up of an arcade playing the Donkey Kong arcade game.")
+![A close up of an arcade playing the Donkey Kong arcade game.](/img/arcade-top-10-donkey-kong.png "Donkey Kong")
 
 The first game in the Donkey Kong series was released in 1981 by Nintendo; Donkey Kong was also one of the first games in the platform genre itself.
 
@@ -54,7 +54,7 @@ The game had four different stages, and Mario would make his way by climbing up 
 
 ## 6. Star Wars 
 
-![Alt text](/img/arcade-top-10-star-wars.png "A close up of an arcade playing the Star Wars arcade game.")
+![A close up of an arcade playing the Star Wars arcade game.](/img/arcade-top-10-star-wars.png "Star Wars")
 
 The Star Wars arcade allows you to reenact Luke Skywalker and the Death Star trench run, as a kid, this was a big deal.
 
@@ -62,7 +62,7 @@ Star Wars: A New Hope was released in 1977, but the arcade didn’t follow until
 
 ## 5. Gauntlet
 
-![Alt text](/img/arcade-top-10-gauntlet.png "A close up of an arcade playing the Guantlet arcade game.")
+![A close up of an arcade playing the Guantlet arcade game.](/img/arcade-top-10-gauntlet.png "Gauntlet")
 
 Gauntlet was released in 1986 by Atari Games, inspired by the Dungeons and Dragons board game; you could have up to four players taking the role of Thor the warrior, Merlin the wizard, Thyra the Valkyrie or Questor the elf.
 
@@ -70,7 +70,7 @@ The game played like a shoot 'em up within a series of mazes; you had to find th
 
 ## 4. Bubble Bobble
 
-![Alt text](/img/arcade-top-10-bubble-bobble.png "A close up of an arcade playing the Bubble bobble arcade game.")
+![A close up of an arcade playing the Bubble bobble arcade game.](/img/arcade-top-10-bubble-bobble.png "Bubble Bobble")
 
 Bubble Bobble was released by Taito in 1986 with two players being able to take control of the dragons Bub and Bob to help them find their kidnapped girlfriends in a charming platform game where you would fire bubbles at the enemies and then burst them on each level to progress.
 
@@ -78,7 +78,7 @@ Accompanied by one of the catchiest sound scores to grace a game, Bubble Bobble 
 
 ## 3. Outrun 
 
-![Alt text](/img/arcade-top-10-outrun.png "A close up of an arcade playing the Outrun arcade game.")
+![A close up of an arcade playing the Outrun arcade game.](/img/arcade-top-10-outrun.png "Outrun")
 
 Released in 1986 by Sega as a stand-up and sit-down cabinet, Outrun oozed cool and set the standard for driving games.
 
@@ -86,7 +86,7 @@ Driving a Ferrari convertible with your girlfriend by your side along the coast 
 
 ## 2. Pacman
 
-![Alt text](/img/arcade-top-10-pacman.png "A close up of an arcade playing the Pacman arcade game.")
+![A close up of an arcade playing the Pacman arcade game.](/img/arcade-top-10-pacman.png "Pacman")
 
 You can't mention arcade without PAC-MAN coming up, the game was released first in Japan in July 1980 and was licensed to the Midway Manufacturing company in the United and released a few months later in October 1980 in the United States and worldwide soon after.
 
@@ -96,7 +96,7 @@ Iconic graphics, iconic sounds and simple addictive gameplay control PAC-MAN in 
 
 ## 1. Space Invaders
 
-![Alt text](/img/arcade-top-10-space-invaders.png "A close up of an arcade playing the Space Invaders arcade game.")
+![A close up of an arcade playing the Space Invaders arcade game](/img/arcade-top-10-space-invaders.png "Space Invaders")
 
 This game needs no introduction, created by [Tomohiro Nishikado](https://en.wikipedia.org/wiki/Tomohiro_Nishikado) and released in Japan in June 1978 by Taito and worldwide a few months later in October 1978.
 

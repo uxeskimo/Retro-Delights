@@ -8,18 +8,18 @@ image: /img/pacman-marquee-lights-thumb.png
 alt: A PAC-MAN Quarter Arcade close up showing a lit Marquee and game playing.
 ---
 
-![Alt text](/img/pacman-marquee.png "A PAC-MAN Quarter Arcade close up showing a lit Marquee and game playing.")
+![A PAC-MAN Quarter Arcade close up showing a lit Marquee and game playing.](/img/pacman-marquee.png "PAC-MAN")
 
 ## No introduction needed
 PAC-MAN needs little introduction, born in the golden age of arcade games, PAC-MAN was the superstar, an icon in the gaming world.
 
 It’s no surprise then that 44 years on from its first release in 1980 by Namco in Japan, the franchise is still in demand.
 
-![Alt text](/img/pacman-side.png "A PAC-MAN Quarter Arcade side view showing a the orginal cabinet art.")
+![A PAC-MAN Quarter Arcade side view showing a the orginal cabinet art.](/img/pacman-side.png "PAC-MAN 2")
 
 ## Numbskull designs
 
-![Alt text](/img/pacman-front-side.png "A PAC-MAN Quarter Arcade angled view showing the orginal cabinet art and lit marquee.")
+![A PAC-MAN Quarter Arcade angled view showing the orginal cabinet art and lit marquee.](/img/pacman-front-side.png "PAC-MAN 3")
 
 Numbskull Design has created a fully playable 1/4 scale replica of the original PAC-MAN arcade, in short, it’s great.
 
@@ -32,7 +32,7 @@ The cabinets have been built from solid wood, it feels premium, it's been well m
 The dimensions are 16.92 inches tall by 8.27 inches deep by 6.3 inches wide.
 
 
-![Alt text](/img/pacman-back.png "A PAC-MAN Quarter Arcade back view showing the orginal cabinet structure.")
+![A PAC-MAN Quarter Arcade back view showing the orginal cabinet structure.](/img/pacman-back.png "PAC-MAN 4")
 
 You also get a certificate of authenticity, only 10,000 copies have been built, so you’re personal unit number will be included on the certificate, which is a nice touch.
 
@@ -40,7 +40,7 @@ Also included is a lovely PAC-MAN metal collectable coin, which comes in its dis
 
 ## Turning it on
 
-![Alt text](/img/pacman-front-gameplay.png "A PAC-MAN Quarter Arcade front view showing the orginal PAC-MAN ROM playing.")
+![A PAC-MAN Quarter Arcade front view showing the orginal PAC-MAN ROM playing.](/img/pacman-front-gameplay.png "PAC-MAN 5")
 
 The cabinet is powered by a rechargeable lithium battery (4 hours per charge), and the on/off switch is located at the back of the machine.
 
@@ -56,13 +56,13 @@ The joypad is obviously small, but it plays nicely and functions as expected, it
 
 ## Its about the experience
 
-![Alt text](/img/pacman-front-bottom.png "A PAC-MAN Quarter Arcade front bottom view.")
+![A PAC-MAN Quarter Arcade front bottom view.](/img/pacman-front-bottom.png "PAC-MAN 6")
 
 As a designer myself, I’m passionate about a user's experience, and this is where the PAC-MAN quarter arcade comes into its own.
 
 With all the minute details that go into replicating the experience you would have got playing the original arcade, it is insane; you won’t get this experience playing on an emulation on a different device!
 
-![Alt text](/img/pacman-front.png "A PAC-MAN Quarter Arcade front view showing the orginal PAC-MAN ROM playing from a distance.")
+![A PAC-MAN Quarter Arcade front view showing the orginal PAC-MAN ROM playing from a distance.](/img/pacman-front.png "PAC-MAN 7")
 
 ## Summary
 I couldn’t be more complimentary about the PAC-MAN quarter arcade; it gives a feel of the magic arcades like PAC-MAN provided back in the 80s, I can’t ask for more than that.

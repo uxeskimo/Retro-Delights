@@ -9,7 +9,7 @@ image: /img/alex-space-invaders-arcade-thumb.png
 alt: Alex playing on a space invaders arcade machine.
 ---
 
-![Alt text](/img/alex-space-invaders-arcade.png "Alex playing on a space invaders arcade machine.")
+![Alex playing on a space invaders arcade machine.](/img/alex-space-invaders-arcade.png "Alex arcade")
 
 A warm welcome to Retro Delights in the first post on our brand-new website!
 
