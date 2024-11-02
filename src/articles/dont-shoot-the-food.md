@@ -6,10 +6,10 @@ title: Don't shoot the food - Guantlet
 date: 2024-04-13
 author: "Lee Murray"
 image: /img/the-beauty-of-gauntlet-thumb.png
-alt: Gauntlet
+alt: Gameplay of Gauntlet.
 ---
 
-![Alt text](/img/guantlet-book.png "a title")
+![Alt text](/img/guantlet-book.png "An open 'Coin-Op: The Arcade Guide' book which shows information about the Gauntlet games.")
 
 ## Arcades in the 80's
 

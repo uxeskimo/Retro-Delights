@@ -6,10 +6,10 @@ title: The Magic Of Bubble Bobble
 date: 2024-04-13
 author: "Lee Murray"
 image: /img/bub-bob-bubble-bobble-thumb.png
-alt: Bubble Bobble
+alt: A Bubble Bobble quarter arcade cabinet on a quartz worktop surface in a kitchen.
 ---
 
-![Alt text](/img/bub-bob-bubble-bobble.png "a title")
+![Alt text](/img/bub-bob-bubble-bobble.png "A Bubble Bobble quarter arcade cabinet on a quartz worktop surface in a kitchen.")
 
 
 ## The beginning of a fantastic story

@@ -5,10 +5,10 @@ title:  Galaga Quarter Arcade Review - A Classic in 2024
 date: 2024-04-13
 author: "Lee Murray"
 image: /img/galaga-marquee-lights-thumb.png
-alt: N64
+alt: A Galaga Quarter Arcade close up showing a lit Marquee and game playing.
 ---
 
-![Alt text](/img/galaga-marquee-lights.png "a title")
+![Alt text](/img/galaga-marquee-lights.png "A Galaga Quarter Arcade close up showing a lit Marquee and game playing.")
 
 The Galaga arcade machine was released in 1981 as a sequel to Galaxian by Namco; it was created by Japanese developer Shigeru Yokoyama.
 
@@ -22,19 +22,19 @@ Also included is a plug charger to charge the lithium-ion rechargeable internal 
 
 ## Attention to detail
 
-![Alt text](/img/galaga-side-view.png "a title")
+![Alt text](/img/galaga-side-view.png "A Galaga Quarter Arcade angled view showing the orginal cabinet art and lit marquee.")
 
 This is the second quarter arcade I’ve purchased from Numbskull Designs, and it doesn’t disappoint, the attention to detail is where it's at.
 
 Made from solid wood to give a premium feel, every painstakingly minute detail has been recreated, from the shape of the cabinet to the light-up marquee, the detailed side art and the air vents its all here in a QTR of the original size.
 
-![Alt text](/img/galaga-back-view.png "a title")
+![Alt text](/img/galaga-back-view.png "A Galaga Quarter Arcade back view showing the orginal cabinet structure.")
 
 The dimensions for the cabinet are 430mm/16.9in (h) x 160mm/6.29in (w) x 210/8.26in (d).
 
 ## The game
 
-![Alt text](/img/galaga-front-gameplay.png "a title")
+![Alt text](/img/galaga-front-gameplay.png "A Galaga Quarter Arcade front view showing the orginal Galaga ROM playing.")
 
 The cabinet includes the original arcade ROM on a bespoke emulator; this proves a 100% accurate emulation.
 
@@ -42,7 +42,7 @@ On starting a game, the nostalgic Galaga theme plays and sounds better than ever
 
 The screen is good quality, and bright multi-coloured stars shimmer beautifully against the black backdrop to reinforce you’re in space without distracting from the action.
 
-![Alt text](/img/galaga-front-artwork.png "a title")
+![Alt text](/img/galaga-front-artwork.png "A Galaga Quarter Arcade front bottom view.")
 
 This is Galaga feels and then some, it is an enjoyable game to play with its simplicity, and it still holds up in 2024, controlling your starfighter, shooting the aliens to complete the stages and pushing for your highest score.
 
@@ -56,7 +56,7 @@ The controls feel responsive, I’ve played micro arcade machines before, where 
 
 ## Verdict
 
-![Alt text](/img/galaga-front-view-off.png "a title")
+![Alt text](/img/galaga-front-view-off.png "A Galaga Quarter Arcade front view showing the orginal Galaga ROM playing from a distance.")
 
 I couldn’t recommend the Galaga QTR arcade any more highly, with the Numbskull quarter arcades, you get premium top quality, it’s all about recreating the original arcade experience but to a quarter of the size.
 

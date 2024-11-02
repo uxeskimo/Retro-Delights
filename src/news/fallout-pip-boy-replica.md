@@ -6,7 +6,7 @@ title: Fallout Series Pip-Boy Die-Cast Replica By Bethesda
 date: 2024-04-12
 author: "Lee Murray"
 image: /img/fallout-pip-boy-replica-thumb.png
-alt: Pip boy replica from the fallout series
+alt: A detailed replica of a Pip-Boy from the Fallout series.
 ---
 
 

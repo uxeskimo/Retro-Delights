@@ -6,7 +6,7 @@ title: Evercade Announce Giga Cart - Bigger Retro Games
 date: 2024-04-15
 author: "Lee Murray"
 image: /img/evercade-cartridges-thumb.png
-alt: Evercade Giga Cart
+alt: Three Evercade video game cartridges on a gray speckled surface.
 ---
 
 ![Alt text](/img/evercade-giga-cart.png "Close-up of a red Evercade Giga Cart with the Giga logo in the upper right corner.")

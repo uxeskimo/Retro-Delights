@@ -5,10 +5,10 @@ title:  Super Pocket Review - Retro Handheld
 date: 2024-04-13
 author: "Lee Murray"
 image: /img/super-pocket-handheld-thumb.png
-alt: THe Super Pocket
+alt: The Taito and Capcom Super Pockets in packaging on a wooden table top.
 ---
 
-![Alt text](/img/super-pocket-handheld.png "a title")
+![Alt text](/img/super-pocket-handheld.png "The Taito and Capcom Super Pockets in packaging on a wooden table top.")
 
 Imagine having a device that fitted in your pocket and allowed you to play over 500 retro games back in the 80’s, damn.
 
@@ -24,7 +24,7 @@ The launch price is £49.99 for each edition.
 
 ## Design
 
-![Alt text](/img/super-pockets-taito-capcom.png "a title")
+![Alt text](/img/super-pockets-taito-capcom.png "The front of Taito and Capcom Super Pockets out of the packaging on a wooden table top.")
 
 I’m a designer by trade, I have high standards, and the super pocket exceeded my expectations.
 
@@ -32,7 +32,7 @@ For the price point, It's a lovely thing to look at, the first two releases each
 
 The colours are bold and vibrant, Capcom comes in blue and yellow, and Taito green and black (I prefer the Taito colours).
 
-![Alt text](/img/super-pocket-backs.png "a title")
+![Alt text](/img/super-pocket-backs.png "The back of Taito and Capcom Super Pockets out of the packaging on a wooden table top.")
 
 It’s a good size, 10.46 x 1.09 x 16.81cm and weighing in at 90.72g, it's true to its name and will fit in your pocket.
 
@@ -40,7 +40,7 @@ They charge by USB-C (cable included), with each charge giving you 4+ hours of p
 
 ## Screen and sound
 
-![Alt text](/img/super-pocket-ghouls-n-ghosts-menu.png "a title")
+![Alt text](/img/super-pocket-ghouls-n-ghosts-menu.png "A Capcom Super Pocket running, showing the menu UI which highlights the Ghouls 'n Ghosts game.")
 
 The screen is 7.112cm in size and 320px by 240px resolution. It’s bright with decent colours, and it does the job.
 
@@ -50,7 +50,7 @@ The sound was louder than expected and packs a punch, the catchy Bubble Bobble s
 
 ## Controls
 
-![Alt text](/img/super-pocket-both-on.png "a title")
+![Alt text](/img/super-pocket-both-on.png "The front of Taito and Capcom Super Pockets running 1942 and Rastan on a wooden table top.")
 
 Controls feel nice in the hand; you have a D-pad, four face buttons, as well as start, select and menu buttons.
 
@@ -60,7 +60,7 @@ The back buttons do feel a bit cramped; there's no getting away from this, thoug
 
 ## Games
 
-![Alt text](/img/super-pocket-bubble-bobble.png "a title")
+![Alt text](/img/super-pocket-bubble-bobble.png "A Taito Super Pocket running Bubble Bobble.")
 
 I was drawn to the Taito edition. First, it comes preinstalled with 18 games:
 
@@ -90,7 +90,7 @@ Space Invaders on this screen is always going to be a compromised play. For me, 
 
 Other standouts for me on this list are The New Zealand Story, Puzzle Bobble, Elevator Action and Rastan.
 
-![Alt text](/img/super-pocket-ghouls-n-ghosts.png "a title")
+![Alt text](/img/super-pocket-ghouls-n-ghosts.png "A Capcom Super Pocket running Ghouls ‘N Ghosts.")
 
 The Capcom edition comes with 12 pre-installed games:
 
@@ -115,7 +115,7 @@ The 1942 games are vertical shooters, so obviously, they don’t look as great o
 
 Street Fighter II’ and Bionic Commando are also stellar games, although there are not as many games in this edition, it is still an impressive selection.
 
-![Alt text](/img/super-pocket-space-invaders.png "a title")
+![Alt text](/img/super-pocket-space-invaders.png "A Taito Super Pocket running Space Invaders.")
 
 ## Verdict
 For under £50, the super pockets offer good value; the massive 500+ Evercade cartridge library brings a unique angle.

@@ -6,7 +6,7 @@ title: Hello From Retro Delights - Our Very First Post!
 date: 2024-04-08
 author: "Lee Murray"
 image: /img/alex-space-invaders-arcade-thumb.png
-alt: Le
+alt: Alex playing on a space invaders arcade machine.
 ---
 
 ![Alt text](/img/alex-space-invaders-arcade.png "Alex playing on a space invaders arcade machine.")
