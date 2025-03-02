@@ -9,9 +9,27 @@
   padding: 2rem 1.5rem ;
   background-color: var(--color-background);}
 
+  @media (min-width: 40em) {
+    body {
+      padding: 2rem 6.5rem;
+    }
+  }
+
+  @media (min-width: 50em) {
+    body {
+      padding: 2rem 7.5rem;
+    }
+  }
+
+  @media (min-width: 60em) {
+    body {
+      padding: 2rem 2.5rem;
+    }
+  }
+
   @media (min-width: 70em) {
     body {
-      padding: 2rem 3.5rem;
+      padding: 2rem 5.5rem;
     }
   }
 
@@ -49,7 +67,7 @@ footer {
 
   @media (min-width: 50em) {
     .home-page header {
-      margin-bottom: 40px;
+      margin-bottom: 60px;
     }
   footer {
       margin-bottom: 110px;
@@ -60,74 +78,69 @@ footer {
     .post-page header {
       margin-bottom: 140px;
       }
-    
   }
   
 
-
 /* Grid -------------------------------------------- */
-.posts {
-  margin-right: 0.6rem;
-  margin-left: 0.6rem;
-}
-
 .posts ul {
   text-align: center;
 }
 
-@media (min-width: 50em) {
+@media (min-width: 60em) {
   .grid-pacman {
     display: grid;
-    grid-column-gap: 4vw;
+    grid-template-columns: 1.7fr 0.2fr 2.1fr;
+    grid-column-gap: 2vh;
 }
 
 .intro {
   grid-column: 1/2;
-  margin-top: 110px;
 }
 
-  .posts {
-      display: grid;
-      grid-column: 2/9;
-      grid-template-columns: 1fr;
-      margin: 0;
-  }
+.hero {
+  grid-column: 3/9;
+}
+.posts {
+  display: grid;
+  grid-column: 1/9;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 2vw;
+}
 
   .posts ul {
     text-align: left;
   }
+
+  .grid-space-invader {
+    display: grid;
+    grid-column-gap: 3vw;
+    grid-template-columns: 2fr 1fr 4fr 3fr 3fr 4fr 1fr 2fr;
+  }
+
+    .grid-space-invader > * {
+      grid-column: 2/8;
+    }
+}
+
+@media (min-width: 70em) {
+.grid-pacman {
+  grid-template-columns: 1.6fr 0.5fr 2.1fr;
+}
 }
 
   @media (min-width: 75em) {
-    .grid-pacman {
-      grid-column-gap: 8vw;
- }
 
+   
 .intro {
   grid-column: 1/2;
 }
 
-  .posts {
-      display: grid;
-      grid-column: 2/9;
-      grid-template-columns: 1fr 1fr 1fr;
-      grid-column-gap: 2vw;
-  }
+.hero {
+  grid-column: 3/9;
+}
 
   }
 
-
-  @media (min-width: 60em) {
-    .grid-space-invader {
-      display: grid;
-      grid-column-gap: 3vw;
-      grid-template-columns: 2fr 1fr 4fr 3fr 3fr 4fr 1fr 2fr;
-    }
-
-      .grid-space-invader > * {
-        grid-column: 2/8;
-      }
-  }
 
   @media (min-width: 80em) {
     .grid-space-invader {

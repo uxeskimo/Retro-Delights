@@ -16,19 +16,10 @@ h1 {
  
 
   @media (min-width: 35em) {
-    h1, .post h1 {
+   .post h1 {
       font-size: 67px; 
     }
   }
-
-  @media (min-width: 50em) {
-    h1, .post h1 {
-      font-size: var(--font-size-large); 
-      margin: 0 0 36px 0;
-    }
- 
-  }
-
 
    .post h1 {
       margin-bottom: 0;
@@ -69,10 +60,19 @@ h1 {
     }
   }
   @media (min-width: 75em) {
+
   :first-of-type .posts h2 {
     margin-top:40px;
      }
     }
+
+    h3 {
+      font-family: 'all-round-gothic';
+      font-size: 20px;
+      color: var(--white-color); 
+      text-transform: uppercase;
+    }
+
 
 /* Parargraphs */
   p, p a {

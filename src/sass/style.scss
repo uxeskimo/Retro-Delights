@@ -3,12 +3,7 @@
 @use "layout";
 
 /* Header -------------------------------------------- */
-   @media (min-width: 40em) {
-    [role="banner"]  {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-    }
-  }
+
 .logo {
     grid-column: 1;
     margin-bottom: 8px;
@@ -28,22 +23,7 @@
         font-size: 21px;
         font-style: normal;
     }
-    @media (min-width: 40em) {
-        .logo {
-            text-align: left;
-    }
-}
 
-    @media (min-width: 50em) {
-        .logo {
-            margin-left:26px;}
-        .logo img {
-            max-width: 64px;}
-        .logo span {
-            display: inline;
-            padding: 20px 0 0 12px;
-        }
-      }
    
 .main-nav {
     grid-column: 2;
@@ -51,14 +31,6 @@
     justify-content: center;
     margin-top: 6px;
     list-style-type: none; }
-
-      @media (min-width: 50em) {
-        .main-nav   {
-           justify-content: flex-end;
-           margin-top: 24px;
-        }
-      }
-
 
 .main-nav li {
     display: inline-block;
@@ -71,9 +43,30 @@
     .main-nav a  {
         font-size: 14px;
     }
+    .logo img {
+        max-width: 38px;
+    }
   }
 
-  @media (min-width: 70em) {
+  @media (min-width: 60em) {
+    [role="banner"]  {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .logo {
+        text-align: left;
+        margin-left: 26px;
+    }
+    .logo img {
+        max-width: 64px;}
+    .logo span {
+            display: inline;
+            padding: 20px 0 0 12px;
+        }
+    .main-nav   {
+        justify-content: flex-end;
+        margin-top: 24px;
+     }
     .main-nav a  {
         padding: 10px 16px 10px 16px;
     }
@@ -101,18 +94,14 @@
     font-size: 20px;;
 }
 
+.posts img {
+    border-radius: 4px;
+}
+
 .author {
     max-width: 50px;
     margin-bottom: 25px;
     padding-right: 6px;}
-
-    @media (min-width: 40em) {
-        .author  {
-            max-width: 80px;
-            margin-bottom: 35px;
-            padding-right: 12px;
-        }
-  }
 
 .drop-cap::first-letter {
     font-size: 150%;
@@ -133,22 +122,50 @@
 
   @media (min-width: 50em) {
     .intro p:last-of-type {
-        padding-bottom: 30px; 
-    }
-    .intro {
-        border-bottom: 0;
+        padding-bottom: 8px; 
     }
     .posts li {
         margin-bottom: 60px;
-      }
-
-      .home-page li {
-        margin-bottom: 10PX;
       }
       .posts h3 {
         margin-top: 16px;
     }
 }
+
+@media (min-width: 60em) {
+    .home-page h1 {
+        margin-top: 16px;
+    }
+}
+
+@media (min-width: 70em) {
+    .intro p:last-of-type {
+        padding-bottom: 30px;
+    }
+    .author  {
+        max-width: 80px;
+        padding-right: 12px;
+    }
+}
+
+@media (min-width: 80em) {
+    .home-page h1 { 
+        font-size: 89px;
+        margin-top: 42px;
+    }
+}   
+@media (min-width: 90em) {
+    .posts {
+        margin-top: 62px;
+    }
+}  
+
+@media (min-width: 100em) {
+.intro p:last-of-type  { 
+    padding-bottom: 80px;
+}
+}
+
 
 .tdbc-anchor {
     vertical-align: top;
@@ -156,6 +173,10 @@
     transition: opacity .18s ease-in-out;
     display: inline-block;
     text-decoration: underline;
+}
+
+.hero img {
+    border-radius: 4px;;
 }
 
 /* lists -------------------------------------------- */
@@ -198,12 +219,27 @@
     list-style: disc;
     line-height: 1.2;
 }
+.post img {
+    border-radius: 4px;
+}
 
 @media (min-width: 50em) {
     .post li {
     line-height: 1.5;
   }
 }
+
+/* Buttons -------------------------------------------- */
+
+.primary-button {
+    display: block;
+    background-color:  var(--purple-color);
+    color: var(--color-background);
+    border-radius: 40px;
+    padding: 20px 40px;
+    text-align: center;
+}
+
 
 /* Footer -------------------------------------------- */
 footer {
