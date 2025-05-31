@@ -80,7 +80,7 @@ footer {
   padding-bottom: 40px;
 }
 
-.posts {
+.posts, .grid-space-invader {
   border-bottom: 4px solid var(--purple-color);
   padding-bottom: 40px;
 }
@@ -99,6 +99,10 @@ footer {
   grid-column: 1 / 9;
   grid-template-columns: 1fr 1fr 1fr;
   grid-column-gap: 2vw;
+}
+
+.grid-space-invader {
+  padding-bottom: 90px;
 }
 
 .posts {
