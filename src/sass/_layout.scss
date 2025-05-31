@@ -9,18 +9,6 @@
   padding: 2rem 1.5rem ;
   background-color: var(--color-background);}
 
-  @media (min-width: 40em) {
-    body {
-      padding: 2rem 6.5rem;
-    }
-  }
-
-  @media (min-width: 50em) {
-    body {
-      padding: 2rem 7.5rem;
-    }
-  }
-
   @media (min-width: 60em) {
     body {
       padding: 2rem 2.5rem;
@@ -41,7 +29,7 @@
 
   @media (min-width: 100em) {
     body {
-      padding: 2rem 9.5rem;
+      padding: 2rem 13.5rem;
     }
   }
   
@@ -49,6 +37,10 @@
   border-width: 0;
   max-width: 100%;
   width: 100%; }
+
+  figure {
+    margin: 0;
+  }
 
 /* Header/footer -------------------------------------------- */
  
@@ -62,15 +54,11 @@ header {
 }
 
 footer {
-    margin-top: 110px;
-    margin-bottom: 50px; }
-
+    margin-top: 60px;
+}
   @media (min-width: 50em) {
     .home-page header {
       margin-bottom: 60px;
-    }
-  footer {
-      margin-bottom: 110px;
     }
     header {
       margin-bottom: 110px;
@@ -82,29 +70,43 @@ footer {
   
 
 /* Grid -------------------------------------------- */
+
 .posts ul {
   text-align: center;
 }
+ 
+.intro-content {
+  border-bottom: 4px solid var(--purple-color);
+  padding-bottom: 40px;
+}
 
-@media (min-width: 60em) {
+.posts {
+  border-bottom: 4px solid var(--purple-color);
+  padding-bottom: 40px;
+}
+
+@media (min-width: 48em) {
   .grid-pacman {
     display: grid;
-    grid-template-columns: 1.7fr 0.2fr 2.1fr;
+    grid-column: 1 / 9;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: 2vh;
 }
 
-.intro {
-  grid-column: 1/2;
+
+.intro-content {
+  display: grid;
+  grid-column: 1 / 9;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 2vw;
 }
 
-.hero {
-  grid-column: 3/9;
-}
 .posts {
   display: grid;
   grid-column: 1/9;
   grid-template-columns: 1fr 1fr 1fr;
   grid-column-gap: 2vw;
+  padding-bottom: 90px;
 }
 
   .posts ul {
@@ -121,25 +123,6 @@ footer {
       grid-column: 2/8;
     }
 }
-
-@media (min-width: 70em) {
-.grid-pacman {
-  grid-template-columns: 1.6fr 0.5fr 2.1fr;
-}
-}
-
-  @media (min-width: 75em) {
-
-   
-.intro {
-  grid-column: 1/2;
-}
-
-.hero {
-  grid-column: 3/9;
-}
-
-  }
 
 
   @media (min-width: 80em) {

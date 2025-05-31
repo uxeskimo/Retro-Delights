@@ -75,7 +75,7 @@ h1 {
 
 
 /* Parargraphs */
-  p, p a {
+  p, p a, blockquote, figcaption {
     margin: 0 0 var(--spacing-default);
     font-family: 'all-round-gothic';
     color: var(--purple-color);
@@ -97,10 +97,38 @@ h1 {
     color: var(--white-color);
   }
 
-  .highlight {
+  .highlight, blockquote, figcaption {
     font-weight: 600;
     text-transform: uppercase;
   }
+
+blockquote {
+    margin-bottom: 30px;
+  }
+
+blockquote:before, blockquote:after {
+    content: "";
+    display: block;
+    margin-inline: auto;
+    inline-size: 38px;
+    block-size: 21px;
+    background-repeat: no-repeat;
+}
+blockquote:before {
+  margin-bottom: 18px;
+ }
+
+blockquote:after {
+ margin-top: 18px;
+}
+
+blockquote:before {
+  background-image: url('data:image/svg+xml,<svg width="28" height="23" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="m12.158.95-3.15 9.75c2.025.75 3.6 2.925 3.6 5.4 0 3.375-2.55 5.925-5.925 5.925S.758 19.475.758 16.1c0-.825.3-2.175.75-3.15l5.4-12h5.25Zm14.625 0-3.15 9.75c2.025.75 3.6 2.925 3.6 5.4 0 3.375-2.55 5.925-5.925 5.925s-5.925-2.55-5.925-5.925c0-.825.3-2.175.75-3.15l5.4-12h5.25Z" fill="%23EDAEEF"/></svg>');
+}
+
+blockquote:after {
+  background-image: url('data:image/svg+xml,<svg width="28" height="23" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="m1.208 22.05 3.15-9.75c-2.025-.75-3.6-2.925-3.6-5.4 0-3.375 2.55-5.925 5.925-5.925s5.925 2.55 5.925 5.925c0 .825-.3 2.175-.75 3.15l-5.4 12h-5.25Zm14.625 0 3.15-9.75c-2.025-.75-3.6-2.925-3.6-5.4 0-3.375 2.55-5.925 5.925-5.925s5.925 2.55 5.925 5.925c0 .825-.3 2.175-.75 3.15l-5.4 12h-5.25Z" fill="%23EDAEEF"/></svg>');
+}
 
 /* Links */
   a, a:visited {
