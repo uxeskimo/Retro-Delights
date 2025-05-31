@@ -19,9 +19,7 @@
 [[plugins]]
   package = "netlify-plugin-cloudinary"
 
-  [plugins.inputs]
-  cloudName = "retrodelights"
-  deliveryType = "upload"
+
 
 
  
