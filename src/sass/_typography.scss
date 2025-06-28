@@ -49,6 +49,13 @@ h1 {
     text-transform: uppercase;
   }
 
+  h4 {
+    font-size: 26px; 
+    font-family: 'all-round-gothic';
+    color: var(--white-color);
+    text-transform: uppercase;
+  }
+
   @media (min-width: 50em) {
     .post h2  {
       font-size: 36px; 
@@ -144,7 +151,8 @@ blockquote:after {
 
   /* Footer */
 
-  footer p {
+ .copyright p {
+    margin-top:30px;
     font-size: 13px;
     font-style: italic;
     font-weight: 400;

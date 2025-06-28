@@ -220,6 +220,12 @@
   }
 }
 
+/* Colors -------------------------------------------- */
+
+.white {
+    color: var(--white-color);
+}
+
 /* Buttons -------------------------------------------- */
 
 .primary-button {
@@ -234,4 +240,20 @@
 
 /* Footer -------------------------------------------- */
 footer {
-    grid-row: 5;}
+    grid-row: 5;
+}
+
+footer p, footer li, footer a {
+    font-size: 14px;
+}
+
+@media (min-width: 40em) {
+    footer p, footer li, footer a {
+    font-size: 14px;
+    line-height: var(--lineheight-text-default);
+   }
+}
+
+.footer-nav li, .footer-links li {
+    padding: 8px 0px;
+}    

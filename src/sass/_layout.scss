@@ -55,7 +55,7 @@ header {
 }
 
 footer {
-    margin-top: 60px;
+    margin-top: 30px;
 }
   @media (min-width: 50em) {
     .home-page header {
@@ -88,6 +88,12 @@ footer {
 
 @media (min-width: 48em) {
   .grid-pacman {
+    display: grid;
+    grid-column: 1 / 9;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 2vh;
+}
+  .footer-content {
     display: grid;
     grid-column: 1 / 9;
     grid-template-columns: 1fr 1fr 1fr;
