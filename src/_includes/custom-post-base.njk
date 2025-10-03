@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+{%- set pageTitle %}{% if title %}{{ title }} - {% endif %}{{ meta.siteName }}{% endset -%}
+{%- set pageDescription %}{% if description %}{{ description }}{% else %}{{ meta.siteDescription }}{% endif %}{% endset -%}
+{%- set pageSocialImg %}{{ meta.url }}/previews/{% if title %}{{ title | slug }}{% else %}home{% endif %}.png{% endset -%}
+  <head>
+    <!-- Generated from the 11ty Netlify Jumpstart: https://github.com/5t3ph/11ty-netlify-jumpstart -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{pageTitle}}</title>
+    <meta
+      name="description"
+      content="{{pageDescription}}"
+    />
+    <link rel="icon" href="{{ '/favicon.png' | url }}" />
+    <link href="{{ '/css/style.css' | url }}" rel="stylesheet" />
+   
+    <meta
+      name="og:title"
+      content="{{pageTitle}}"
+    />
+    <meta
+      name="og:description"
+      content="{{pageDescription}}"
+    />
+  
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="RSS Feed for {{ meta.siteName }}"
+      href="/feed/"
+    />
+    <link rel="stylesheet" href="https://use.typekit.net/xbe4tdt.css">
+  </head>
+  <body class="custom-post" data-theme="">
+   <header role="banner">
+
+      {% include "header.njk" %}
+    
+    </header>
+
+    {{ content | safe }}
+
+
+   <footer role="contentinfo">
+       {% include "footer.njk" %}
+   </footer> 
+
+  </body>
+</html>
