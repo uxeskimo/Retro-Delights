@@ -23,7 +23,6 @@
         font-size: 21px;
         font-style: normal;
     }
-
    
 .main-nav {
     grid-column: 2;
@@ -164,6 +163,10 @@
     transition: opacity .18s ease-in-out;
     display: inline-block;
     text-decoration: underline;
+}
+
+.test {
+    
 }
 
 .intro-block img {
