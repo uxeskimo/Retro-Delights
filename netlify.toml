@@ -18,7 +18,9 @@
 
 [[plugins]]
   package = "netlify-plugin-cloudinary"
-  ignore = ["**/*.svg"]
+[plugins.inputs]
+    # ... other settings
+    ignore = ["**/*.svg", "assets/svgs/*"]
 
 
 
