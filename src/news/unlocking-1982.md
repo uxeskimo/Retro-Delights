@@ -6,7 +6,7 @@ title: The golden age of arcade celebrated on Atari
 date: 2025-10-13
 author: "Lee Murray"
 image: /img/pacman-atari-thumb.png
-alt: Close-up of someone playing the Atari Game Station Go handheld.
+alt: Pacman gameplay on the Atari 7800
 ---
 
 ![Pacman gameplay on the Atari 7800](/img/PMSS_02.png)

@@ -43,6 +43,17 @@
     padding-bottom: 24px;
   }
 
+  .cover-image {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    object-position: center;
+  }
+
+.side-image {
+ margin-bottom: 12px;
+}
+
 /* Header/footer -------------------------------------------- */
  
 header {
@@ -181,18 +192,28 @@ ul {
   /* Custom post -------------------------------------------- */
 
 .custom-post {
-  padding: 2rem 3.5rem;
-   h1 {
-    text-align: center;
-    margin-bottom: 0;
-   }
       .title-img {
         padding-top: 20px;
       }
+      h1 {
+      font-size: 50px;
+      margin-bottom: 0;
+      }
+  }
+
+  @media (min-width: 48em) {
+    .custom-post  {
+       padding-right: 6rem;
+       padding-left: 6rem;
+    }
   }
 
   @media (min-width: 70em) {
 .custom-post {
+  padding: 2rem 3.5rem;
+   h1 {
+    text-align: center;
+   }
 
    .title-img {
     max-width: 80%;
