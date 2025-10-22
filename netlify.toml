@@ -20,7 +20,7 @@
   package = "netlify-plugin-cloudinary"
 
 [plugins.inputs]
-  resourceTypes = ["image/jpeg", "image/png", "image/webp", "image/avif"]
+  imagesPath = "/img"
 
 
  
