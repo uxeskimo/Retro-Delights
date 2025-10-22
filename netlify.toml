@@ -20,7 +20,7 @@
   package = "netlify-plugin-cloudinary"
 
 [plugins.inputs]
-  imagesPath = "/img/"
+  imagesPath = "src/img/"
 
 
  
