@@ -20,13 +20,54 @@
   package = "netlify-plugin-cloudinary"
 
  [plugins.inputs]
-  cloudName = "retrodelights"
-  deliveryType = "fetch"
-  folder = "cld-assets/img"
-  extensions = ["jpg", "png", "gif", "webp"]
-  autoFormat = true
-  autoQuality = true
-  rewriteHTML = true
+#########################################
+# Cloudinary image optimization redirects
+#########################################
+
+# JPG and JPEG
+[[redirects]]
+  from = "/img/:name.jpg"
+  to = "https://res.cloudinary.com/retrodelights/image/fetch/f_auto,q_auto/https://retrodelights.co.uk/cld-assets/img/:name.jpg"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/img/:name.jpeg"
+  to = "https://res.cloudinary.com/retrodelights/image/fetch/f_auto,q_auto/https://retrodelights.co.uk/cld-assets/img/:name.jpeg"
+  status = 302
+  force = true
+
+# PNG
+[[redirects]]
+  from = "/img/:name.png"
+  to = "https://res.cloudinary.com/retrodelights/image/fetch/f_auto,q_auto/https://retrodelights.co.uk/cld-assets/img/:name.png"
+  status = 302
+  force = true
+
+# WebP
+[[redirects]]
+  from = "/img/:name.webp"
+  to = "https://res.cloudinary.com/retrodelights/image/fetch/f_auto,q_auto/https://retrodelights.co.uk/cld-assets/img/:name.webp"
+  status = 302
+  force = true
+
+#########################################
+# Internal rewrites and feed redirect
+#########################################
+
+# Internal rewrite for /cld-assets/img/*
+[[redirects]]
+  from = "/cld-assets/img/*"
+  to = "/img/:splat"
+  status = 200
+  force = true
+
+# Feed redirect
+[[redirects]]
+  from = "/feed/"
+  to = "/feed/feed.xml"
+  status = 200
+  force = false
 
 
 
