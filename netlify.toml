@@ -20,7 +20,14 @@
   package = "netlify-plugin-cloudinary"
 
 [plugins.inputs]
-  imagesPath = "/img"
+ [plugins.inputs]
+  cloudName = "retrodelights"
+  deliveryType = "fetch"
+  folder = "cld-assets/img"
+  extensions = ["jpg", "png", "gif", "webp"]
+  autoFormat = true
+  autoQuality = true
+  rewriteHTML = true
 
 
 
